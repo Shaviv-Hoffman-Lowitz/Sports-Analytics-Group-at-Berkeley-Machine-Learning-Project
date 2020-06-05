@@ -1,28 +1,28 @@
 <html>
 
 <head>
-
+<script src="{{ url_for('static', filename='js/main.js') }}?v=1"></script>
 </head>
 
-<table border="1" class="dataframe">
+<table border="1" class="dataframe" id="dfs">
   <thead>
     <tr style="text-align: right;">
       <th></th>
       <th>Unnamed: 0</th>
-      <th>name</th>
-      <th>team</th>
-      <th>date</th>
-      <th>location</th>
-      <th>opponent</th>
-      <th>made_two_point_field_goals</th>
-      <th>made_three_point_field_goals</th>
-      <th>made_free_throws</th>
-      <th>rebounds</th>
-      <th>assists</th>
-      <th>blocks</th>
-      <th>steals</th>
-      <th>turnovers</th>
-      <th>pic</th>
+      <th onclick="sortTable(0)">name</th>
+      <th onclick="sortTable(1)">team</th>
+      <th onclick="sortTable(2)">date</th>
+      <th onclick="sortTable(3)">location</th>
+      <th onclick="sortTable(4)">opponent</th>
+      <th onclick="sortTable(5)">made_two_point_field_goals</th>
+      <th onclick="sortTable(6)">made_three_point_field_goals</th>
+      <th onclick="sortTable(7)">made_free_throws</th>
+      <th onclick="sortTable(8)">rebounds</th>
+      <th onclick="sortTable(9)">assists</th>
+      <th onclick="sortTable(10)">blocks</th>
+      <th onclick="sortTable(11)">steals</th>
+      <th onclick="sortTable(12)">turnovers</th>
+      <th onclick="sortTable(13)">pic</th>
     </tr>
   </thead>
   <tbody>
