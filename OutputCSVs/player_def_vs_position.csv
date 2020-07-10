@@ -1,798 +1,529 @@
 name,pos,team,rank
-"James, LeBron^",PG/SF,LA Lakers,6.0
-"Augustin, D.J.",PG,Orlando,14.0
-"Booker, Devin^",PG/SG,Phoenix,23.0
-"Beal, Bradley^",SG,Washington,18.0
-"Lillard, Damian^",PG,Portland,21.0
-"Fultz, Markelle^",PG/SG,Orlando,17.5
-"Napier, Shabazz^",PG/SG,Minnesota,25.5
-"Ntilikina, Frank",PG/SG,New York,18.0
-"Bradley, Avery^",PG/SG,LA Lakers,5.0
-"Culver, Jarrett^",PG/SG,Minnesota,25.5
-"McCollum, C.J.^",PG/SG,Portland,18.5
-"McRae, Jordan",PG/SG,Washington,24.0
-"Rubio, Ricky^",PG,Phoenix,19.0
-"Payton, Elfrid^",PG,New York,25.0
-"Bledsoe, Eric^",PG,Milwaukee,18.0
-"Smith, Ishmael",PG,Washington,30.0
-"DiVincenzo, Donte^",PG/SF,Milwaukee,13.0
-"Nowell, Jaylen",PG/SG,Minnesota,25.5
-"Johnson, Tyler",PG/SG,Phoenix,23.0
-"Simons, Anfernee",PG/SG,Portland,18.5
-"Thomas, Isaiah^",PG,Washington,30.0
-"Barrett, RJ^",PG/SG,New York,18.0
-"Hill, George",PG/SG,Milwaukee,15.5
-"Okobo, Elie",PG/SG,Phoenix,23.0
-"Payton, Gary^",PG/SG,Washington,24.0
-"Trent Jr., Gary",SG,Portland,16.0
-"Robinson, Justin",PG,Washington,30.0
-"Rondo, Rajon",PG,LA Lakers,5.0
-"Magette, Josh",PG,Orlando,14.0
-"Caruso, Alex",PG/SG,LA Lakers,5.0
-"Daniels, Troy",SG,LA Lakers,5.0
-"Cook, Quinn",PG,LA Lakers,5.0
-"Trier, Allonzo",PG/SG,New York,18.0
-"Jerome, Ty",PG/SG,Phoenix,23.0
-"Teague, Jeff",PG,Minnesota,23.0
-"Mason III, Frank",PG/SG,Milwaukee,15.5
-"McLaughlin, Jordan",PG,Minnesota,23.0
-"Wall, John",PG,Washington,30.0
-"Lecque, Jalen",PG/SG,Phoenix,23.0
-"Carter-Williams, Michael",PG/SG,Orlando,17.5
-"Allen, Kadeem",PG/SG,New York,18.0
-"Harper, Jared",PG,Phoenix,19.0
-"Smith Jr., Dennis",PG,New York,25.0
-"Carter, Jevon",PG/SG,Phoenix,23.0
-"Antetokounmpo, Giannis^",SF/PF,Milwaukee,10.0
-"Oubre, Kelly^",SF/PF,Phoenix,15.5
-"Anthony, Carmelo^",SF/PF,Portland,21.5
-"Covington, Robert^",SF/PF,Minnesota,19.5
-"Middleton, Khris^",SG/SF,Milwaukee,10.5
-"Morris, Marcus^",SF/PF,New York,19.0
-"Kuzma, Kyle",SF/PF,LA Lakers,7.5
-"Fournier, Evan^",SG/SF,Orlando,16.0
-"Brown Jr., Troy",SG/SF,Washington,22.5
-"Okogie, Josh",SG/SF,Minnesota,24.5
-"Iwundu, Wes^",SG/SF,Orlando,16.0
-"Ross, Terrence",SG/SF,Orlando,16.0
-"Bates-Diop, Keita",SF/PF,Minnesota,19.5
-"Korver, Kyle",SG/SF,Milwaukee,10.5
-"Bazemore, Kent^",SG/SF,Portland,15.0
-"Bridges, Mikal",SG/SF,Phoenix,21.0
-"Connaughton, Pat",SG/SF,Milwaukee,10.5
-"Knox, Kevin",SF/PF,New York,19.0
-"Bullock, Reggie",SG/SF,New York,11.5
-"Green, Danny^",SG/SF,LA Lakers,6.0
-"Martin, Kelan^",SF,Minnesota,21.0
-"Mathews, Garrison",SG/SF,Washington,22.5
-"Caldwell-Pope, Kentavious",SG/SF,LA Lakers,6.0
-"Bonga, Isaac",SF,Washington,27.0
-"Johnson, Cameron",SF/PF,Phoenix,15.5
-"Saric, Dario^",SF/PF,Phoenix,15.5
-"Isaac, Jonathan^",SF/PF,Orlando,13.0
-"Dotson, Damyean",SG/SF,New York,11.5
-"Frazier, Melvin",SG/SF,Orlando,16.0
-"Little, Nassir",SF/PF,Portland,21.5
-"Schofield, Admiral",SF/PF,Washington,19.0
-"Antetokounmpo, Thanasis",SF/PF,Milwaukee,10.0
-"Dudley, Jared",SF/PF,LA Lakers,7.5
-"Graham, Treveon",SF/PF,Minnesota,19.5
-"Brown, Sterling",SG/SF,Milwaukee,10.5
-"Ellington, Wayne",SG/SF,New York,11.5
-"Hezonja, Mario",SF/PF,Portland,21.5
-"Antetokounmpo, Kostas",SF/PF,LA Lakers,7.5
-"Reynolds, Cameron",SG/SF,Milwaukee,10.5
-"Layman, Jake",SF/PF,Minnesota,19.5
-"Gordon, Aaron",SF/PF,Orlando,13.0
-"Bertans, Davis",SF/PF,Washington,19.0
-"Horton-Tucker, Talen",SG/SF,LA Lakers,6.0
-"Miles, C.J.",SG/SF,Washington,22.5
-"Hood, Rodney",SG/SF,Portland,15.0
-"Aminu, Al-Farouq",SF/PF,Orlando,13.0
-"Cacok, Devontae",PF,LA Lakers,8.0
-"Matthews, Wes",SG/SF,Milwaukee,10.5
-"Cousins, DeMarcus",PF,LA Lakers,8.0
-"Wiggins, Andrew",SG/SF,Minnesota,24.5
-"Johnson, B.J.",SG/SF,Orlando,16.0
-"Brazdeikis, Ignas",SF/PF,New York,19.0
-"Hoard, Jaylen",SF/PF,Portland,21.5
-"Randle, Julius^",PF/C,New York,15.0
-"Davis, Anthony^",PF/C,LA Lakers,6.5
-"Whiteside, Hassan^",C,Portland,24.0
-"Vucevic, Nikola^",C,Orlando,7.0
-"Ayton, Deandre",C,Phoenix,12.0
-"Robinson, Mitchell",C,New York,4.0
-"Lopez, Brook^",C,Milwaukee,8.0
-"Portis, Bobby",PF/C,New York,15.0
-"Dieng, Gorgui^",C,Minnesota,13.0
-"Birch, Khem",C,Orlando,7.0
-"Pasecniks, Anzejs",C,Washington,18.0
-"McGee, JaVale^",C,LA Lakers,5.0
-"Ilyasova, Ersan",PF/C,Milwaukee,10.0
-"Bamba, Mohamed",C,Orlando,7.0
-"Reid, Naz",PF/C,Minnesota,15.5
-"Baynes, Aron^",C,Phoenix,12.0
-"Howard, Dwight",C,LA Lakers,5.0
-"Jefferson, Amile",PF/C,Orlando,11.0
-"Williams, Johnathan^",PF/C,Washington,14.5
-"Tolliver, Anthony",PF/C,Portland,26.5
-"Lopez, Robin",C,Milwaukee,8.0
-"Mahinmi, Ian^",C,Washington,18.0
-"Bell, Jordan",PF/C,Minnesota,15.5
-"Diallo, Cheick",PF/C,Phoenix,14.0
-"Gibson, Taj^",PF/C,New York,15.0
-"Brown, Moses",C,Portland,24.0
-"Wilson, D.J.",PF/C,Milwaukee,10.0
-"Vonleh, Noah",PF/C,Minnesota,15.5
-"Nurkic, Jusuf",C,Portland,24.0
-"Collins, Zach",PF/C,Portland,26.5
-"Towns, Karl-Anthony",C,Minnesota,13.0
-"Bender, Dragan",PF/C,Milwaukee,10.0
-"Bryant, Thomas",PF/C,Washington,14.5
-"Rabb, Ivan",PF/C,New York,15.0
-"Kaminsky, Frank",PF/C,Phoenix,14.0
-"Wagner, Moritz",PF/C,Washington,14.5
-"Hachimura, Rui",PF/C,Washington,14.5
-"Labissiere, Skal",PF/C,Portland,26.5
-"Doncic, Luka^",PG/SG,Dallas,7.5
-"Fox, De'Aaron^",PG,Sacramento,24.0
-"Gilgeous-Alexander, Shai^",PG/SG,Oklahoma City,13.0
-"Rozier, Terry^",PG/SG,Charlotte,13.5
-"LaVine, Zach^",PG/SG,Chicago,3.5
-"Murray, Jamal^",PG/SG,Denver,6.5
-"Barton, Will^",PG/SF,Denver,15.0
-"Williams, Louis",PG/SG,LA Clippers,7.0
-"Paul, Chris^",PG,Oklahoma City,17.0
-"Graham, Devonte'^",PG,Charlotte,3.0
-"Garland, Darius^",PG,Cleveland,27.0
-"Lowry, Kyle^",PG,Toronto,12.0
-"Curry, Seth",PG/SG,Dallas,7.5
-"Morant, Ja^",PG,Memphis,22.0
-"Mitchell, Donovan^",PG/SG,Utah,15.0
-"Dinwiddie, Spencer^",PG/SG,Brooklyn,15.0
-"Brown, Bruce",PG/SG,Detroit,8.5
-"Schroder, Dennis",PG/SG,Oklahoma City,13.0
-"Nunn, Kendrick^",PG/SG,Miami,8.0
-"Sexton, Collin^",PG/SG,Cleveland,28.0
-"White, Derrick",PG/SG,San Antonio,20.5
-"McConnell, T.J.",PG,Indiana,10.0
-"Rose, Derrick",PG/SG,Detroit,8.5
-"Herro, Tyler",SG,Miami,14.0
-"Melton, De'Anthony",PG/SG,Memphis,22.0
-"Harris, Gary^",SG,Denver,2.0
-"Barea, Jose^",PG/SG,Dallas,7.5
-"VanVleet, Fred^",PG/SG,Toronto,7.5
-"Dunn, Kris^",PG/SF,Chicago,13.0
-"Pinson, Theo",PG/SG,Brooklyn,15.0
-"Joseph, Cory",PG/SG,Sacramento,23.5
-"Holiday, Aaron^",PG/SG,Indiana,11.0
-"Dragic, Goran",PG,Miami,2.0
-"Galloway, Langston",PG/SG,Detroit,8.5
-"Satoransky, Tomas^",PG/SF,Chicago,13.0
-"White, Coby",PG/SG,Chicago,3.5
-"Murray, Dejounte^",PG,San Antonio,16.0
-"Bowman, Ky",PG,Golden State,29.0
-"Exum, Dante",PG/SG,Cleveland,28.0
-"Clarkson, Jordan",PG/SG,Utah,15.0
-"Green, Draymond^",PG/SF,Golden State,28.5
-"Wright, Delon",PG/SG,Dallas,7.5
-"Evans III, Jacob",PG/SF,Golden State,28.5
-"Mudiay, Emmanuel",PG,Utah,15.0
-"Robinson, Jerome",SG,LA Clippers,7.0
-"Morris, Monte",PG,Denver,11.0
-"Forbes, Bryn^",PG/SG,San Antonio,20.5
-"Jones, Tyus",PG/SG,Memphis,22.0
-"Frazier, Tim^",PG,Detroit,13.0
-"Davis, Terence",PG/SG,Toronto,7.5
-"Dellavedova, Matthew",PG/SG,Cleveland,28.0
-"Mills, Patty",PG/SG,San Antonio,20.5
-"Brunson, Jalen",PG/SG,Dallas,7.5
-"Monk, Malik",PG/SG,Charlotte,13.5
-"Harrison, Shaquille",PG/SF,Chicago,13.0
-"Walton Jr., Derrick",PG,LA Clippers,7.0
-"Allen, Grayson",PG/SG,Memphis,22.0
-"Reaves, Josh",SG,Dallas,6.0
-"Russell, D'Angelo",PG/SG,Golden State,27.5
-"Beasley, Malik",PG/SG,Denver,6.5
-"Mokoka, Adam",PG/SG,Chicago,3.5
-"Thomas, Matt",SG,Toronto,3.0
-"Ferrell, Yogi",PG/SG,Sacramento,23.5
-"Knight, Brandon",PG/SG,Cleveland,28.0
-"Arcidiacono, Ryan",PG/SG,Chicago,3.5
-"Jackson, Reggie",PG/SG,Detroit,8.5
-"Irving, Kyrie",PG,Brooklyn,20.0
-"Cleveland, Antonius",SG,Dallas,6.0
-"Williams-Goss, Nigel",PG,Utah,15.0
-"Mann, Terance",PG/SF,LA Clippers,8.5
-"Coffey, Amir",PG/SF,LA Clippers,8.5
-"Brogdon, Malcolm",PG/SG,Indiana,11.0
-"Oladipo, Victor",PG/SG,Indiana,11.0
-"Strus, Max",SG,Chicago,1.0
-"Konchar, John",SG,Memphis,22.0
-"Wright-Foreman, Justin",PG,Utah,15.0
-"Mitrou-Long, Nazareth",PG/SG,Indiana,11.0
-"Conley, Mike",PG,Utah,15.0
-"LeVert, Caris",PG/SF,Brooklyn,19.0
-"Curry, Stephen",PG,Golden State,29.0
-"Macon, Daryl",PG/SG,Miami,8.0
-"Beverley, Patrick",PG/SG,LA Clippers,7.0
-"Thomas, Khyri",SG,Detroit,4.0
-"Winslow, Justise",PG/SF,Miami,4.0
-"Bone, Jordan",PG,Detroit,13.0
-"Guy, Kyle",PG/SG,Sacramento,23.5
-"Weatherspoon, Quinndary",PG,San Antonio,16.0
-"Dort, Luguentz",PG,Oklahoma City,17.0
-"Ponds, Shamorie",PG,Toronto,12.0
-"Simmons, Kobi",SG,Charlotte,24.0
-"Lamb, Jeremy^",SG/SF,Indiana,6.5
-"Hield, Buddy^",SG/SF,Sacramento,20.0
-"DeRozan, DeMar^",SG/SF,San Antonio,24.0
-"Leonard, Kawhi^",SF/PF,LA Clippers,12.0
-"Anunoby, OG^",SF/PF,Toronto,16.5
-"Butler, Jimmy^",SG/SF,Miami,10.0
-"Crowder, Jae^",SF/PF,Memphis,22.0
-"Warren, T.J.^",SF/PF,Indiana,4.0
-"Porter, Michael",SF/PF,Denver,12.5
-"Ingles, Joe^",SG/SF,Utah,12.0
-"Harkless, Maurice^",SF/PF,LA Clippers,12.0
-"Green, JaMychal",SF/PF,LA Clippers,12.0
-"Bogdanovic, Bojan^",SF/PF,Utah,11.0
-"Walker, Lonnie",SG/SF,San Antonio,24.0
-"Doumbouya, Sekou^",SF/PF,Detroit,17.0
-"Finney-Smith, Dorian^",SF/PF,Dallas,12.5
-"Hollis-Jefferson, Rondae",SF/PF,Toronto,16.5
-"Bacon, Dwayne",SG/SF,Charlotte,24.0
-"Robinson III, Glenn^",SG/SF,Golden State,27.0
-"Barnes, Harrison^",SF/PF,Sacramento,13.5
-"Harris, Joe^",SG/SF,Brooklyn,14.0
-"Osman, Cedi^",SF/PF,Cleveland,28.5
-"Prince, Taurean^",SF/PF,Brooklyn,11.5
-"Jones, Derrick",SF/PF,Miami,11.5
-"Gallinari, Danilo^",SF/PF,Oklahoma City,2.5
-"Brooks, Dillon^",SG/SF,Memphis,22.0
-"Shamet, Landry^",SG/SF,LA Clippers,8.5
-"Bogdanovic, Bogdan",SG/SF,Sacramento,20.0
-"Bjelica, Nemanja^",PF,Sacramento,10.0
-"Kurucs, Rodions^",SF/PF,Brooklyn,11.5
-"Paschall, Eric",SF/PF,Golden State,25.5
-"George, Paul^",SF,LA Clippers,10.0
-"Gay, Rudy",SF/PF,San Antonio,23.5
-"Mykhailiuk, Sviatoslav^",SG/SF,Detroit,4.0
-"Musa, Dzanan",SF/PF,Brooklyn,11.5
-"Luwawu, Timothe",SG/SF,Brooklyn,14.0
-"Ariza, Trevor",SF/PF,Sacramento,13.5
-"Lee, Damion^",SG/SF,Golden State,27.0
-"Chandler, Wilson",SF/PF,Brooklyn,11.5
-"Snell, Tony^",SG/SF,Detroit,4.0
-"Porter, Kevin",SG/SF,Cleveland,29.5
-"Niang, Georges",SF/PF,Utah,11.0
-"Bazley, Darius",SF/PF,Oklahoma City,2.5
-"Williams, Marvin",SF/PF,Charlotte,24.5
-"O'Neale, Royce^",SF,Utah,9.0
-"Young, Thaddeus",SF/PF,Chicago,20.0
-"Holiday, Justin",SG/SF,Indiana,6.5
-"Bridges, Miles^",SF/PF,Charlotte,24.5
-"Robinson, Duncan^",SG/SF,Miami,10.0
-"Jackson, Justin^",SF/PF,Dallas,12.5
-"Burks, Alec^",SG/SF,Golden State,27.0
-"McGruder, Rodney",SG/SF,LA Clippers,8.5
-"Ferguson, Terrance^",SG/SF,Oklahoma City,5.5
-"Diallo, Hamidou",SG/SF,Oklahoma City,5.5
-"Anderson, Kyle",SF/PF,Memphis,22.0
-"Hill, Solomon",SF/PF,Memphis,22.0
-"McDermott, Doug",SF/PF,Indiana,4.0
-"McCaw, Patrick^",SG/SF,Toronto,16.0
-"Valentine, Denzel",SG/SF,Chicago,10.5
-"King, Louis",SF/PF,Detroit,17.0
-"James, Justin",SG/SF,Sacramento,20.0
-"Johnson, Stanley",SF/PF,Toronto,16.5
-"Lee, Courtney",SG/SF,Dallas,11.0
-"Nader, Abdel",SF,Oklahoma City,2.0
-"Hernangomez, Juan",SF/PF,Denver,12.5
-"Vanderbilt, Jarred",SF/PF,Denver,12.5
-"Batum, Nicolas",SG/SF,Charlotte,24.0
-"Burton, Deonte",SG/SF,Oklahoma City,5.5
-"Gabriel, Wenyen",SF/PF,Sacramento,13.5
-"Craig, Torrey",SG/SF,Denver,10.5
-"Johnson, James",SF/PF,Miami,11.5
-"Sampson, JaKarr",SF/PF,Indiana,4.0
-"Morgan, Juwan",PF,Utah,13.0
-"McKinnie, Alfonzo",SF/PF,Cleveland,28.5
-"Waiters, Dion",SG/SF,Miami,10.0
-"Tucker, Rayjon",SG/SF,Utah,12.0
-"Belinelli, Marco",SG/SF,San Antonio,24.0
-"Brissett, Oshae",SF/PF,Toronto,16.5
-"Guduric, Marko",SG/SF,Memphis,22.0
-"Kidd-Gilchrist, Michael",SF/PF,Charlotte,24.5
-"Carroll, DeMarre",SF,San Antonio,23.0
-"Haslem, Udonis",PF,Miami,17.0
-"Johnson, Alize",PF,Indiana,7.0
-"Miller, Malcolm",SG/SF,Toronto,16.0
-"Martin, Cody",SG/SF,Charlotte,24.0
-"Broekhoff, Ryan",SG/SF,Dallas,11.0
-"Hardaway Jr., Tim",SG/SF,Dallas,11.0
-"Temple, Garrett",SG/SF,Brooklyn,14.0
-"Bowen II, Brian",SG/SF,Indiana,6.5
-"Durant, Kevin",SF/PF,Brooklyn,11.5
-"Roberson, Andre",SG/SF,Oklahoma City,5.5
-"Porter, Otto",SF/PF,Chicago,20.0
-"Oni, Miye",SG/SF,Utah,12.0
-"Windler, Dylan",SG/SF,Cleveland,29.5
-"Samanic, Luka",SF/PF,San Antonio,23.5
-"Sumner, Edmond",SG/SF,Indiana,6.5
-"Cancar, Vlatko",SF,Denver,19.0
-"Martin, Caleb",SG/SF,Charlotte,24.0
-"Brantley, Jarrell",SF/PF,Utah,11.0
-"Watanabe, Yuta",SF/PF,Memphis,22.0
-"Hervey, Kevin",SF/PF,Oklahoma City,2.5
-"Poole, Jordan",SG/SF,Golden State,27.0
-"Johnson, Keldon",SG/SF,San Antonio,24.0
-"Franks, Robert",SF/PF,Charlotte,24.5
-"McDaniels, Jalen",SF/PF,Charlotte,24.5
-"Dozier, PJ",SG/SF,Denver,10.5
-"Thompson, Klay",SG/SF,Golden State,27.0
-"Hutchison, Chandler",SF/PF,Chicago,20.0
-"Powell, Norman",SG/SF,Toronto,16.0
-"Kennard, Luke",SG/SF,Detroit,4.0
-"Wade, Dean",PF,Cleveland,27.0
-"Roby, Isaiah",SF/PF,Dallas,12.5
-"Iguodala, Andre",SG/SF,Memphis,22.0
-"Jeffries, DaQuan",SG/SF,Sacramento,20.0
-"Nwaba, David",SG/SF,Brooklyn,14.0
-"Okpala, KZ",SF/PF,Miami,11.5
-"Jackson, Josh",SF/PF,Memphis,22.0
-"Sabonis, Domantas^",PF/C,Indiana,14.0
-"Aldridge, LaMarcus^",PF/C,San Antonio,17.0
-"Carter Jr., Wendell^",PF/C,Chicago,24.0
-"Gobert, Rudy^",C,Utah,25.0
-"Valanciunas, Jonas^",C,Memphis,20.0
-"Adebayo, Bam^",C,Miami,17.0
-"Love, Kevin^",PF/C,Cleveland,28.0
-"Ibaka, Serge^",PF/C,Toronto,2.5
-"Markkanen, Lauri^",PF/C,Chicago,24.0
-"Harrell, Montrezl",PF/C,LA Clippers,16.5
-"Drummond, Andre^",C,Detroit,27.0
-"Jackson, Jaren^",PF/C,Memphis,21.0
-"Kleber, Maxi",PF/C,Dallas,15.5
-"Adams, Steven^",C,Oklahoma City,23.0
-"Turner, Myles^",C,Indiana,21.0
-"Holmes, Richaun^",PF/C,Sacramento,6.5
-"Jokic, Nikola^",C,Denver,9.0
-"Washington, P.J.^",PF/C,Charlotte,20.5
-"Jordan, DeAndre^",C,Brooklyn,26.0
-"Plumlee, Mason",PF/C,Denver,7.5
-"Chriss, Marquese^",PF/C,Golden State,14.5
-"Zubac, Ivica^",C,LA Clippers,19.0
-"Wood, Christian",PF/C,Detroit,28.5
-"Thompson, Tristan^",C,Cleveland,29.0
-"Zeller, Cody",PF/C,Charlotte,20.5
-"Bradley, Tony",C,Utah,25.0
-"Maker, Thon",PF/C,Detroit,28.5
-"Millsap, Paul^",PF/C,Denver,7.5
-"Noel, Nerlens",C,Oklahoma City,23.0
-"Clarke, Brandon",PF/C,Memphis,21.0
-"Henson, John",C,Cleveland,29.0
-"Marjanovic, Boban",C,Dallas,22.0
-"Boucher, Chris",PF/C,Toronto,2.5
-"Poeltl, Jakob",C,San Antonio,10.0
-"Spellman, Omari",PF/C,Golden State,14.5
-"Allen, Jarrett",C,Brooklyn,26.0
-"Biyombo, Bismack^",C,Charlotte,16.0
-"Smailagic, Alen",PF/C,Golden State,14.5
-"Gafford, Daniel",C,Chicago,28.0
-"Giles, Harry",PF/C,Sacramento,6.5
-"Powell, Dwight^",C,Dallas,22.0
-"Nance, Larry",PF/C,Cleveland,28.0
-"Grant, Jerami",PF/C,Denver,7.5
-"Leonard, Meyers^",PF/C,Miami,17.0
-"Silva, Chris",C,Miami,17.0
-"Ellenson, Henry",PF/C,Brooklyn,15.5
-"Lyles, Trey^",PF/C,San Antonio,17.0
-"Bitadze, Goga",PF/C,Indiana,14.0
-"Olynyk, Kelly",PF/C,Miami,17.0
-"Motley, Johnathan",PF/C,LA Clippers,16.5
-"Leaf, TJ",PF/C,Indiana,14.0
-"Patterson, Patrick",PF/C,LA Clippers,16.5
-"Metu, Chimezie",PF/C,San Antonio,17.0
-"Swanigan, Caleb",PF/C,Sacramento,6.5
-"Griffin, Blake",PF/C,Detroit,28.5
-"Davis, Ed",C,Utah,25.0
-"Hernangomez, Guillermo",C,Charlotte,16.0
-"Kornet, Luke",PF/C,Chicago,24.0
-"Muscala, Mike",PF/C,Oklahoma City,13.0
-"Zizic, Ante",C,Cleveland,29.0
-"Caboclo, Bruno",PF/C,Memphis,21.0
-"Eubanks, Drew",PF/C,San Antonio,17.0
-"Felicio, Cristiano",C,Chicago,28.0
-"Bagley, Marvin",PF/C,Sacramento,6.5
-"Morris, Markieff",PF/C,Detroit,28.5
-"Hernandez, Dewan",PF/C,Toronto,2.5
-"Siakam, Pascal",PF/C,Toronto,2.5
-"Looney, Kevon",PF/C,Golden State,14.5
-"Claxton, Nicolas",PF/C,Brooklyn,15.5
-"Cook, Tyler",PF/C,Cleveland,28.0
-"Porzingis, Kristaps",PF/C,Dallas,15.5
-"Bol, Bol",C,Denver,9.0
-"Patton, Justin",C,Oklahoma City,23.0
-"Kabengele, Mfiondu",PF/C,LA Clippers,16.5
-"Dedmon, Dewayne",C,Sacramento,3.0
-"Gasol, Marc",C,Toronto,1.0
-"Cauley-Stein, Willie",C,Golden State,6.0
-"Harden, James^",PG/SG,Houston,12.0
-"Simmons, Ben^",PG/SF,Philadelphia,2.0
-"Young, Trae^",PG,Atlanta,28.0
-"Smart, Marcus^",PG/SG,Boston,12.5
-"Westbrook, Russell^",PG,Houston,4.0
-"Huerter, Kevin^",PG/SG,Atlanta,29.0
-"Ball, Lonzo^",PG,New Orleans,26.0
-"Holiday, Jrue^",PG/SG,New Orleans,22.5
-"Goodwin, Brandon",PG/SG,Atlanta,29.0
-"Burke, Trey",PG/SG,Philadelphia,4.5
-"Wanamaker, Brad",PG/SG,Boston,12.5
-"Rivers, Austin",PG/SG,Houston,12.0
-"Waters, Tremont",PG,Boston,8.0
-"Neto, Raul",PG,Philadelphia,1.0
-"Alexander-Walker, Nickeil",PG/SG,New Orleans,22.5
-"Green, Javonte",SG,Boston,17.0
-"Milton, Shake",PG/SG,Philadelphia,4.5
-"Clemons, Chris",PG,Houston,4.0
-"Beal, Bradley",SG,Washington,18.0
-"Jackson, Frank",PG/SG,New Orleans,22.5
-"Edwards, Carsen",PG,Boston,8.0
-"Walker, Kemba",PG,Boston,8.0
-"Turner, Evan",PG/SG,Atlanta,29.0
-"Gray, Josh",PG,New Orleans,26.0
-"Frazier, Michael",PG/SG,Houston,12.0
-"Brown, Jaylen^",SG/SF,Boston,11.0
-"Ingram, Brandon^",SF/PF,New Orleans,23.0
-"Harris, Tobias^",SF/PF,Philadelphia,2.5
-"Gordon, Aaron^",SF/PF,Orlando,13.0
-"Hayward, Gordon^",SF/PF,Boston,3.0
-"Tatum, Jayson^",SF/PF,Boston,3.0
-"Moore, E'Twaun",SG/SF,New Orleans,22.0
-"Redick, J.J.^",SG/SF,New Orleans,22.0
-"Brown Jr., Troy^",SG/SF,Washington,22.5
-"Richardson, Josh^",SG/SF,Philadelphia,5.5
-"Gordon, Eric",SG/SF,Houston,16.5
-"Iwundu, Wes",SG/SF,Orlando,16.0
-"Hart, Josh",SG/SF,New Orleans,22.0
-"Crabbe, Allen",SG/SF,Atlanta,28.0
-"Korkmaz, Furkan",SG/SF,Philadelphia,5.5
-"Parker, Jabari",SF/PF,Atlanta,27.0
-"Reddish, Cam^",SG/SF,Atlanta,28.0
-"Hunter, De'Andre^",SF/PF,Atlanta,27.0
-"Williams, Grant",SF/PF,Boston,3.0
-"House, Danuel^",SF/PF,Houston,16.0
-"Tucker, P.J.^",SF/PF,Houston,16.0
-"Scott, Mike",SF/PF,Philadelphia,2.5
-"Bembry, DeAndre",SG/SF,Atlanta,28.0
-"McLemore, Ben",SG/SF,Houston,16.5
-"Williams, Kenrich",SF/PF,New Orleans,23.0
-"Langford, Romeo",SG/SF,Boston,11.0
-"Saric, Dario",SF/PF,Phoenix,15.5
-"Carter, Vince",SF/PF,Atlanta,27.0
-"Sefolosha, Thabo",SF/PF,Houston,16.0
-"Ojeleye, Semi",SF/PF,Boston,3.0
-"Smith, Zhaire",SG/SF,Philadelphia,5.5
-"Thybulle, Matisse",SG/SF,Philadelphia,5.5
-"Howard, William",SF/PF,Houston,16.0
-"Ennis, James",SF/PF,Philadelphia,2.5
-"Green, Gerald",SG/SF,Houston,16.5
-"Parsons, Chandler",SF/PF,Atlanta,27.0
-"Isaac, Jonathan",SF/PF,Orlando,13.0
-"Cheatham, Zylan",SF/PF,New Orleans,23.0
-"Brown, Charlie",SG/SF,Atlanta,28.0
-"Miller, Darius",SF/PF,New Orleans,23.0
-"Shayok, Marial",SG/SF,Philadelphia,5.5
-"Capela, Clint^",C,Houston,11.0
-"Embiid, Joel^",C,Philadelphia,15.0
-"Favors, Derrick^",PF/C,New Orleans,17.5
-"Ayton, Deandre^",C,Phoenix,12.0
-"Kanter, Enes",C,Boston,2.0
-"Theis, Daniel^",PF/C,Boston,1.5
-"Collins, John^",PF/C,Atlanta,29.0
-"Len, Alex",C,Atlanta,30.0
-"Horford, Al^",PF/C,Philadelphia,8.5
-"Hayes, Jaxson",C,New Orleans,14.0
-"Birch, Khem^",C,Orlando,7.0
-"Hartenstein, Isaiah",PF/C,Houston,15.0
-"Fernando, Bruno",C,Atlanta,30.0
-"Clark, Gary",PF/C,Houston,15.0
-"Pelle, Norvel",C,Philadelphia,15.0
-"Chandler, Tyson",C,Houston,11.0
-"Okafor, Jahlil",C,New Orleans,14.0
-"Jones, Damian",C,Atlanta,30.0
-"Melli, Nicolo",PF/C,New Orleans,17.5
-"O'Quinn, Kyle",PF/C,Philadelphia,8.5
-"Bolden, Jonah",PF/C,Philadelphia,8.5
-"Williamson, Zion",PF/C,New Orleans,17.5
-"Fall, Tacko",C,Boston,2.0
-"Hilario, Nene",C,Houston,11.0
-"Poirier, Vincent",C,Boston,2.0
-"Williams, Robert",PF/C,Boston,1.5
-"McRae, Jordan^",PG/SG,Washington,24.0
-"White, Derrick^",PG/SG,San Antonio,20.5
-"Forbes, Bryn",PG/SG,San Antonio,20.5
-"Walton Jr., Derrick^",PG,LA Clippers,7.0
-"Bowman, Ky^",PG,Golden State,29.0
-"Murray, Dejounte",PG,San Antonio,16.0
-"DiVincenzo, Donte",PG/SF,Milwaukee,13.0
-"Burks, Alec",SG/SF,Golden State,27.0
-"Temple, Garrett^",SG/SF,Brooklyn,14.0
-"Walker, Lonnie^",SG/SF,San Antonio,24.0
-"Kurucs, Rodions",SF/PF,Brooklyn,11.5
-"Matthews, Wes^",SG/SF,Milwaukee,10.5
-"Reddish, Cam",SG/SF,Atlanta,28.0
-"George, Paul",SF,LA Clippers,10.0
-"Jordan, DeAndre",C,Brooklyn,26.0
-"Chriss, Marquese",PF/C,Golden State,14.5
-"Fernando, Bruno^",C,Atlanta,30.0
-"Allen, Jarrett^",C,Brooklyn,26.0
-"Jones, Damian^",C,Atlanta,30.0
-"Cauley-Stein, Willie^",C,Golden State,6.0
-"Collins, John",PF/C,Atlanta,29.0
-"Trent Jr., Gary^",SG,Portland,16.0
-"McCollum, C.J.",PG/SG,Portland,18.5
-"Jones, Derrick^",SF/PF,Miami,11.5
-"Wiggins, Andrew^",SG/SF,Minnesota,24.5
-"Mykhailiuk, Sviatoslav",SG/SF,Detroit,4.0
-"Martin, Kelan",SF,Minnesota,21.0
-"Porter, Kevin^",SG/SF,Cleveland,29.5
-"Butler, Jimmy",SG/SF,Miami,10.0
-"Henson, John^",C,Cleveland,29.0
-"Wood, Christian^",PF/C,Detroit,28.5
-"Thompson, Tristan",C,Cleveland,29.0
-"Love, Kevin",PF/C,Cleveland,28.0
-"Holiday, Jrue",PG/SG,New Orleans,22.5
-"Green, Draymond",PG/SF,Golden State,28.5
-"Chiozza, Chris",PG/SG,Brooklyn,15.0
-"Hardaway Jr., Tim^",SG/SF,Dallas,11.0
-"Bonga, Isaac^",SF,Washington,27.0
-"Paschall, Eric^",SF/PF,Golden State,25.5
-"Hart, Josh^",SG/SF,New Orleans,22.0
-"Jackson, Justin",SF/PF,Dallas,12.5
-"Brown, Bruce^",PG/SF,Detroit,8.5
-"Frazier, Tim",PG,Detroit,13.0
-"VanVleet, Fred",PG/SG,Toronto,7.5
-"Hollis-Jefferson, Rondae^",SF/PF,Toronto,16.5
-"Bazley, Darius^",SF/PF,Oklahoma City,2.5
-"Bullock, Reggie^",SG/SF,New York,11.5
-"Anderson, Justin",SF/PF,Brooklyn,11.5
-"Gallinari, Danilo",SF/PF,Oklahoma City,2.5
-"Morris, Marcus",SF/PF,New York,19.0
-"Giles, Harry^",PF/C,Sacramento,6.5
-"Holmes, Richaun",PF/C,Sacramento,6.5
-"Davis, Terence^",PG/SG,Toronto,7.5
-"Wright, Delon^",PG/SG,Dallas,7.5
-"Smart, Marcus",PG/SG,Boston,12.5
-"Walker, Kemba^",PG,Boston,8.0
-"Barea, Jose",PG/SG,Dallas,7.5
-"Westbrook, Russell",PG,Houston,4.0
-"Barton, Will",PG/SF,Denver,15.0
-"Young, Thaddeus^",SF/PF,Chicago,20.0
-"Gordon, Eric^",SG/SF,Houston,16.5
-"Craig, Torrey^",SG/SF,Denver,10.5
-"Watson, Paul",SG/SF,Atlanta,28.0
-"Portis, Bobby^",PF/C,New York,15.0
-"Grant, Jerami^",PF/C,Denver,7.5
-"Randle, Julius",PF/C,New York,15.0
-"Carter Jr., Wendell",PF/C,Chicago,24.0
-"Millsap, Paul",PF/C,Denver,7.5
-"Randolph, Levi",PG/SG,Cleveland,28.0
-"Scott, Mike^",SF/PF,Philadelphia,2.5
-"Embiid, Joel",C,Philadelphia,15.0
-"Beverley, Patrick^",PG/SG,LA Clippers,7.0
-"Holiday, Aaron",PG/SG,Indiana,11.0
-"McConnell, T.J.^",PG,Indiana,10.0
-"Vincent, Gabe",PG/SG,Miami,8.0
-"Kuzma, Kyle^",SF/PF,LA Lakers,7.5
-"Sampson, JaKarr^",SF/PF,Indiana,4.0
-"Spellman, Omari^",PF/C,Golden State,14.5
-"Gafford, Daniel^",C,Chicago,28.0
-"Sabonis, Domantas",PF/C,Indiana,14.0
-"Davis, Anthony",PF/C,LA Lakers,6.5
-"Rondo, Rajon^",PG,LA Lakers,5.0
-"James, LeBron",PG/SF,LA Lakers,6.0
-"Moore, E'Twaun^",SG/SF,New Orleans,22.0
-"Caldwell-Pope, Kentavious^",SG/SF,LA Lakers,6.0
-"Redick, J.J.",SG/SF,New Orleans,22.0
-"Green, Danny",SG/SF,LA Lakers,6.0
-"Kleber, Maxi^",PF/C,Dallas,15.5
-"Hayes, Jaxson^",C,New Orleans,14.0
-"Tolliver, Anthony^",PF/C,Portland,26.5
-"Whiteside, Hassan",C,Portland,24.0
-"Favors, Derrick",PF/C,New Orleans,17.5
-"Russell, D'Angelo^",PG/SG,Golden State,27.5
-"Williams, Louis^",PG/SG,LA Clippers,7.0
-"Irving, Kyrie^",PG,Brooklyn,20.0
-"Mudiay, Emmanuel^",PG,Utah,15.0
-"Goodwin, Brandon^",PG/SG,Atlanta,29.0
-"Young, Trae",PG,Atlanta,28.0
-"Mitchell, Donovan",PG/SG,Utah,15.0
-"Powell, Norman^",SG/SF,Toronto,16.0
-"Harkless, Maurice",SF/PF,LA Clippers,12.0
-"McCaw, Patrick",SG/SF,Toronto,16.0
-"Shamet, Landry",SG/SF,LA Clippers,8.5
-"Lee, Damion",SG/SF,Golden State,27.0
-"Siakam, Pascal^",PF/C,Toronto,2.5
-"Patterson, Patrick^",PF/C,LA Clippers,16.5
-"Brogdon, Malcolm^",PG/SG,Indiana,11.0
-"Ingram, Brandon",SF/PF,New Orleans,23.0
-"Law, Vic",SF/PF,Orlando,13.0
-"Okafor, Jahlil^",C,New Orleans,14.0
-"Melli, Nicolo^",PF/C,New Orleans,17.5
-"Kanter, Enes^",C,Boston,2.0
-"Zeller, Cody^",PF/C,Charlotte,20.5
-"Biyombo, Bismack",C,Charlotte,16.0
-"Theis, Daniel",PF/C,Boston,1.5
-"Rivers, Austin^",PG/SG,Houston,12.0
-"Okobo, Elie^",PG/SG,Phoenix,23.0
-"Rubio, Ricky",PG,Phoenix,19.0
-"McLemore, Ben^",SG/SF,Houston,16.5
-"McKinnie, Alfonzo^",SF/PF,Cleveland,28.5
-"Anderson, Kyle^",SF/PF,Memphis,22.0
-"House, Danuel",SF/PF,Houston,16.0
-"Crowder, Jae",SF/PF,Memphis,22.0
-"Rose, Derrick^",PG/SG,Detroit,8.5
-"Harris, Gary",SG,Denver,2.0
-"Thybulle, Matisse^",SG/SF,Philadelphia,5.5
-"Fournier, Evan",SG/SF,Orlando,16.0
-"Tatum, Jayson",SF/PF,Boston,3.0
-"Gasol, Marc^",C,Toronto,1.0
-"Bagley, Marvin^",PF/C,Sacramento,6.5
-"Bryant, Thomas^",C,Washington,18.0
-"Morris, Monte^",PG,Denver,11.0
-"Murray, Jamal",PG,Denver,11.0
-"Bridges, Mikal^",SG/SF,Phoenix,21.0
-"Oubre, Kelly",SF/PF,Phoenix,15.5
-"Brown, Jaylen",SG/SF,Boston,11.0
-"Baynes, Aron",C,Phoenix,12.0
-"Owens, Tariq",C,Phoenix,12.0
-"Wooten, Kenny",C,New York,4.0
-"Payton, Gary",PG/SG,Washington,24.0
-"Alexander, Kyle",PF,Miami,17.0
-"Towns, Karl-Anthony^",C,Minnesota,13.0
-"Kornet, Luke^",PF/C,Chicago,24.0
-"Noel, Nerlens^",C,Oklahoma City,23.0
-"Dieng, Gorgui",C,Minnesota,13.0
-"Adams, Steven",C,Oklahoma City,23.0
-"Simons, Anfernee^",PG/SG,Portland,18.5
-"Barrett, RJ",SG,New York,11.0
-"Little, Nassir^",SF/PF,Portland,21.5
-"McGruder, Rodney^",SG/SF,LA Clippers,8.5
-"Diallo, Hamidou^",SG/SF,Oklahoma City,5.5
-"Williams, Grant^",SF/PF,Boston,3.0
-"Bazemore, Kent",SG/SF,Portland,15.0
-"Robinson III, Glenn",SG/SF,Golden State,27.0
-"Harris, Joe",SG/SF,Brooklyn,14.0
-"Ferguson, Terrance",SG/SF,Oklahoma City,5.5
-"Ibaka, Serge",C,Toronto,1.0
-"Dort, Luguentz^",SG,Oklahoma City,9.0
-"Martin, Jeremiah",PG,Brooklyn,20.0
-"Spalding, Ray",C,Charlotte,16.0
-"Teague, Jeff^",PG,Atlanta,28.0
-"Mann, Terance^",PG,LA Clippers,7.0
-"Doumbouya, Sekou",SF/PF,Detroit,17.0
-"Leonard, Kawhi",SF,LA Clippers,10.0
-"Williamson, Zion^",PF/C,New Orleans,17.5
-"Morris, Markieff^",PF/C,Detroit,28.5
-"Maker, Thon^",PF/C,Detroit,28.5
-"Dedmon, Dewayne^",C,Sacramento,3.0
-"Williams, Johnathan",PF/C,Washington,14.5
-"Drummond, Andre",C,Detroit,27.0
-"Curry, Seth^",SG,Dallas,6.0
-"Mooney, Matthew",PG/SG,Cleveland,28.0
-"Ariza, Trevor^",SF/PF,Portland,21.5
-"Howard, Dwight^",C,LA Lakers,5.0
-"Porzingis, Kristaps^",PF/C,Dallas,15.5
-"McGee, JaVale",C,LA Lakers,5.0
-"Powell, Dwight",C,Dallas,22.0
-"Jackson, Reggie^",PG,Detroit,13.0
-"Herro, Tyler^",SG,Miami,14.0
-"Culver, Jarrett",PG/SG,Minnesota,25.5
-"Robinson, Jerome^",SG,LA Clippers,7.0
-"Nunn, Kendrick",PG/SG,Miami,8.0
-"Hield, Buddy",SG/SF,Sacramento,20.0
-"Okogie, Josh^",SG/SF,Minnesota,24.5
-"Bogdanovic, Bogdan^",SG/SF,Sacramento,20.0
-"Snell, Tony",SG/SF,Detroit,4.0
-"Markkanen, Lauri",PF/C,Chicago,24.0
-"Milton, Shake^",PG/SG,Philadelphia,4.5
-"Dinwiddie, Spencer",PG/SG,Brooklyn,15.0
-"Richardson, Josh",SG/SF,Philadelphia,5.5
-"Harden, James",PG/SG,Houston,12.0
-"Turner, Myles",C,Indiana,21.0
-"Schroder, Dennis^",PG/SG,Oklahoma City,13.0
-"Paul, Chris",PG,Oklahoma City,17.0
-"Poeltl, Jakob^",C,San Antonio,10.0
-"Capela, Clint",C,Houston,11.0
-"Aldridge, LaMarcus",PF/C,San Antonio,17.0
-"Exum, Dante^",PG/SG,Cleveland,28.0
-"Garland, Darius",PG,Cleveland,27.0
-"Ilyasova, Ersan^",PF,Milwaukee,12.0
-"Antetokounmpo, Giannis",PF,Milwaukee,12.0
-"Horford, Al",PF/C,Philadelphia,8.5
-"Doncic, Luka",PG,Dallas,9.0
-"Broekhoff, Ryan^",SG/SF,Dallas,11.0
-"Hill, Solomon^",SF/PF,Memphis,22.0
-"Antetokounmpo, Thanasis^",PF,Milwaukee,12.0
-"Gabriel, Wenyen^",PF,Portland,29.0
-"Anthony, Carmelo",PF,Portland,29.0
-"Lopez, Brook",C,Milwaukee,8.0
-"Jackson, Jaren",PF/C,Memphis,21.0
-"Brunson, Jalen^",PG/SG,Dallas,7.5
-"Conley, Mike^",PG,Utah,15.0
-"Smith Jr., Dennis^",PG,New York,25.0
-"Payton, Elfrid",PG,New York,25.0
-"O'Neale, Royce",SF,Utah,9.0
-"Williams, Marvin^",PF,Charlotte,25.0
-"Hunter, De'Andre",SF/PF,Atlanta,27.0
-"Bolden, Marques",C,Cleveland,29.0
-"Washington, P.J.",PF/C,Charlotte,20.5
-"Dunn, Kris",PG/SF,Chicago,13.0
-"Hutchison, Chandler^",SF/PF,Chicago,20.0
-"LeVert, Caris^",PG/SF,Brooklyn,19.0
-"Green, Javonte^",SG,Boston,17.0
-"Evans III, Jacob^",SG/SF,Golden State,27.0
-"Bacon, Dwayne^",SG/SF,Charlotte,24.0
-"Warren, T.J.",SF/PF,Indiana,4.0
-"Nance, Larry^",PF/C,Cleveland,28.0
-"Hachimura, Rui^",PF/C,Washington,14.5
-"Mika, Eric",C,Sacramento,3.0
-"Martin, Cody^",SG/SF,Charlotte,24.0
-"Oladipo, Victor^",PG/SG,Indiana,11.0
-"Napier, Shabazz",PG,Minnesota,23.0
-"Langford, Romeo^",SG/SF,Boston,11.0
-"Covington, Robert",SF/PF,Minnesota,19.5
-"Leonard, Meyers",PF,Miami,17.0
-"Olynyk, Kelly^",C,Miami,17.0
-"Ntilikina, Frank^",PG,New York,25.0
-"Smith, Ishmael^",PG,Washington,30.0
-"Lee, Courtney^",SF,Dallas,16.0
-"Hayward, Gordon",SF/PF,Boston,3.0
-"Swanigan, Caleb^",C,Portland,24.0
-"McLaughlin, Jordan^",PG,Minnesota,23.0
-"Beasley, Malik^",SG,Minnesota,28.0
-"Lowry, Kyle",PG,Toronto,12.0
-"Hernangomez, Juan^",PF,Minnesota,18.0
-"Thomas, Isaiah",PG,LA Clippers,7.0
-"Pargo, Jeremy",PG,Golden State,29.0
-"Norvell Jr., Zach",PG/SG,Golden State,27.5
-"Johnson, Cameron^",SF/PF,Phoenix,15.5
-"Lamb, Jeremy",SG/SF,Indiana,6.5
-"Toscano-Anderson, Juan",SF/PF,Golden State,25.5
-"DeRozan, DeMar",SG/SF,San Antonio,24.0
-"Diallo, Cheick^",PF/C,Phoenix,14.0
-"Korkmaz, Furkan^",SG,Philadelphia,8.0
-"Joseph, Cory^",PG,Sacramento,24.0
-"Macura, J.P.",SG,Cleveland,29.0
-"Newman, Malik",PG/SG,Cleveland,28.0
-"Rozier, Terry",PG/SG,Charlotte,13.5
-"Poole, Jordan^",SG/SF,Golden State,27.0
-"Martin, Caleb^",SG/SF,Charlotte,24.0
-"Johnson, James^",PF/C,Minnesota,15.5
-"Neto, Raul^",PG,Philadelphia,1.0
-"Arcidiacono, Ryan^",PG/SG,Chicago,3.5
-"Simmons, Ben",PG/SF,Philadelphia,2.0
-"Lillard, Damian",PG,Portland,21.0
-"Ennis, James^",SF/PF,Orlando,13.0
-"Reid, Naz^",PF/C,Minnesota,15.5
-"Green, Jeff",PF/C,Houston,15.0
-"Looney, Kevon^",C,Golden State,6.0
-"Hannahs, Dusty",PG,Memphis,22.0
-"Lopez, Robin^",C,Milwaukee,8.0
-"Clarke, Brandon^",PF/C,Memphis,21.0
-"Monk, Malik^",PG/SG,Charlotte,13.5
-"Chealey, Joe",SG,Charlotte,24.0
-"Graham, Devonte'",PG,Charlotte,3.0
-"Hall, Donta",PF/C,Detroit,28.5
-"Melton, De'Anthony^",PG/SG,Memphis,22.0
-"Ingles, Joe",SG/SF,Utah,12.0
-"Fox, De'Aaron",PG,Sacramento,24.0
-"Bender, Dragan^",PF/C,Golden State,14.5
-"Gibson, Taj",C,New York,4.0
-"Middleton, Khris",SF,Milwaukee,8.0
-"Mulder, Mychal",SG,Golden State,26.0
-"Caruso, Alex^",PG/SG,LA Lakers,5.0
-"Toscano-Anderson, Juan^",SF/PF,Golden State,25.5
-"Uthoff, Jarrod",PF,Memphis,22.0
+LeBron James,PG/SF,LA Lakers,6.0
+D.J. Augustin,PG,Orlando,14.0
+Devin Booker,PG/SG,Phoenix,23.0
+Bradley Beal,SG,Washington,18.0
+Damian Lillard,PG,Portland,21.0
+Markelle Fultz,PG/SG,Orlando,17.5
+Shabazz Napier,PG/SG,Minnesota,25.5
+Frank Ntilikina,PG/SG,New York,18.0
+Avery Bradley,PG/SG,LA Lakers,5.0
+Jarrett Culver,PG/SG,Minnesota,25.5
+C.J. McCollum,PG/SG,Portland,18.5
+Jordan McRae,PG/SG,Washington,24.0
+Ricky Rubio,PG,Phoenix,19.0
+Elfrid Payton,PG,New York,25.0
+Eric Bledsoe,PG,Milwaukee,18.0
+Ishmael Smith,PG,Washington,30.0
+Donte DiVincenzo,PG/SF,Milwaukee,13.0
+Jaylen Nowell,PG/SG,Minnesota,25.5
+Tyler Johnson,PG/SG,Phoenix,23.0
+Anfernee Simons,PG/SG,Portland,18.5
+Isaiah Thomas,PG,Washington,30.0
+RJ Barrett,PG/SG,New York,18.0
+George Hill,PG/SG,Milwaukee,15.5
+Elie Okobo,PG/SG,Phoenix,23.0
+Gary Payton,PG/SG,Washington,24.0
+Jr. Trent,SG,Portland,16.0
+Justin Robinson,PG,Washington,30.0
+Rajon Rondo,PG,LA Lakers,5.0
+Josh Magette,PG,Orlando,14.0
+Alex Caruso,PG/SG,LA Lakers,5.0
+Troy Daniels,SG,LA Lakers,5.0
+Quinn Cook,PG,LA Lakers,5.0
+Allonzo Trier,PG/SG,New York,18.0
+Ty Jerome,PG/SG,Phoenix,23.0
+Jeff Teague,PG,Minnesota,23.0
+III Mason,PG/SG,Milwaukee,15.5
+Jordan McLaughlin,PG,Minnesota,23.0
+John Wall,PG,Washington,30.0
+Jalen Lecque,PG/SG,Phoenix,23.0
+Michael Carter-Williams,PG/SG,Orlando,17.5
+Kadeem Allen,PG/SG,New York,18.0
+Jared Harper,PG,Phoenix,19.0
+Jr. Smith,PG,New York,25.0
+Jevon Carter,PG/SG,Phoenix,23.0
+Giannis Antetokounmpo,SF/PF,Milwaukee,10.0
+Kelly Oubre,SF/PF,Phoenix,15.5
+Carmelo Anthony,SF/PF,Portland,21.5
+Robert Covington,SF/PF,Minnesota,19.5
+Khris Middleton,SG/SF,Milwaukee,10.5
+Marcus Morris,SF/PF,New York,19.0
+Kyle Kuzma,SF/PF,LA Lakers,7.5
+Evan Fournier,SG/SF,Orlando,16.0
+Jr. Brown,SG/SF,Washington,22.5
+Josh Okogie,SG/SF,Minnesota,24.5
+Wes Iwundu,SG/SF,Orlando,16.0
+Terrence Ross,SG/SF,Orlando,16.0
+Keita Bates-Diop,SF/PF,Minnesota,19.5
+Kyle Korver,SG/SF,Milwaukee,10.5
+Kent Bazemore,SG/SF,Portland,15.0
+Mikal Bridges,SG/SF,Phoenix,21.0
+Pat Connaughton,SG/SF,Milwaukee,10.5
+Kevin Knox,SF/PF,New York,19.0
+Reggie Bullock,SG/SF,New York,11.5
+Danny Green,SG/SF,LA Lakers,6.0
+Kelan Martin,SF,Minnesota,21.0
+Garrison Mathews,SG/SF,Washington,22.5
+Kentavious Caldwell-Pope,SG/SF,LA Lakers,6.0
+Isaac Bonga,SF,Washington,27.0
+Cameron Johnson,SF/PF,Phoenix,15.5
+Dario Saric,SF/PF,Phoenix,15.5
+Jonathan Isaac,SF/PF,Orlando,13.0
+Damyean Dotson,SG/SF,New York,11.5
+Melvin Frazier,SG/SF,Orlando,16.0
+Nassir Little,SF/PF,Portland,21.5
+Admiral Schofield,SF/PF,Washington,19.0
+Thanasis Antetokounmpo,SF/PF,Milwaukee,10.0
+Jared Dudley,SF/PF,LA Lakers,7.5
+Treveon Graham,SF/PF,Minnesota,19.5
+Sterling Brown,SG/SF,Milwaukee,10.5
+Wayne Ellington,SG/SF,New York,11.5
+Mario Hezonja,SF/PF,Portland,21.5
+Kostas Antetokounmpo,SF/PF,LA Lakers,7.5
+Cameron Reynolds,SG/SF,Milwaukee,10.5
+Jake Layman,SF/PF,Minnesota,19.5
+Aaron Gordon,SF/PF,Orlando,13.0
+Davis Bertans,SF/PF,Washington,19.0
+Talen Horton-Tucker,SG/SF,LA Lakers,6.0
+C.J. Miles,SG/SF,Washington,22.5
+Rodney Hood,SG/SF,Portland,15.0
+Al-Farouq Aminu,SF/PF,Orlando,13.0
+Devontae Cacok,PF,LA Lakers,8.0
+Wes Matthews,SG/SF,Milwaukee,10.5
+DeMarcus Cousins,PF,LA Lakers,8.0
+Andrew Wiggins,SG/SF,Minnesota,24.5
+B.J. Johnson,SG/SF,Orlando,16.0
+Ignas Brazdeikis,SF/PF,New York,19.0
+Jaylen Hoard,SF/PF,Portland,21.5
+Julius Randle,PF/C,New York,15.0
+Anthony Davis,PF/C,LA Lakers,6.5
+Hassan Whiteside,C,Portland,24.0
+Nikola Vucevic,C,Orlando,7.0
+Deandre Ayton,C,Phoenix,12.0
+Mitchell Robinson,C,New York,4.0
+Brook Lopez,C,Milwaukee,8.0
+Bobby Portis,PF/C,New York,15.0
+Gorgui Dieng,C,Minnesota,13.0
+Khem Birch,C,Orlando,7.0
+Anzejs Pasecniks,C,Washington,18.0
+JaVale McGee,C,LA Lakers,5.0
+Ersan Ilyasova,PF/C,Milwaukee,10.0
+Mohamed Bamba,C,Orlando,7.0
+Naz Reid,PF/C,Minnesota,15.5
+Aron Baynes,C,Phoenix,12.0
+Dwight Howard,C,LA Lakers,5.0
+Amile Jefferson,PF/C,Orlando,11.0
+Johnathan Williams,PF/C,Washington,14.5
+Anthony Tolliver,PF/C,Portland,26.5
+Robin Lopez,C,Milwaukee,8.0
+Ian Mahinmi,C,Washington,18.0
+Jordan Bell,PF/C,Minnesota,15.5
+Cheick Diallo,PF/C,Phoenix,14.0
+Taj Gibson,PF/C,New York,15.0
+Moses Brown,C,Portland,24.0
+D.J. Wilson,PF/C,Milwaukee,10.0
+Noah Vonleh,PF/C,Minnesota,15.5
+Jusuf Nurkic,C,Portland,24.0
+Zach Collins,PF/C,Portland,26.5
+Karl-Anthony Towns,C,Minnesota,13.0
+Dragan Bender,PF/C,Milwaukee,10.0
+Thomas Bryant,PF/C,Washington,14.5
+Ivan Rabb,PF/C,New York,15.0
+Frank Kaminsky,PF/C,Phoenix,14.0
+Moritz Wagner,PF/C,Washington,14.5
+Rui Hachimura,PF/C,Washington,14.5
+Skal Labissiere,PF/C,Portland,26.5
+Luka Doncic,PG/SG,Dallas,7.5
+De'Aaron Fox,PG,Sacramento,24.0
+Shai Gilgeous-Alexander,PG/SG,Oklahoma City,13.0
+Terry Rozier,PG/SG,Charlotte,13.5
+Zach LaVine,PG/SG,Chicago,3.5
+Jamal Murray,PG/SG,Denver,6.5
+Will Barton,PG/SF,Denver,15.0
+Louis Williams,PG/SG,LA Clippers,7.0
+Chris Paul,PG,Oklahoma City,17.0
+Devonte' Graham,PG,Charlotte,3.0
+Darius Garland,PG,Cleveland,27.0
+Kyle Lowry,PG,Toronto,12.0
+Seth Curry,PG/SG,Dallas,7.5
+Ja Morant,PG,Memphis,22.0
+Donovan Mitchell,PG/SG,Utah,15.0
+Spencer Dinwiddie,PG/SG,Brooklyn,15.0
+Bruce Brown,PG/SG,Detroit,8.5
+Dennis Schroder,PG/SG,Oklahoma City,13.0
+Kendrick Nunn,PG/SG,Miami,8.0
+Collin Sexton,PG/SG,Cleveland,28.0
+Derrick White,PG/SG,San Antonio,20.5
+T.J. McConnell,PG,Indiana,10.0
+Derrick Rose,PG/SG,Detroit,8.5
+Tyler Herro,SG,Miami,14.0
+De'Anthony Melton,PG/SG,Memphis,22.0
+Gary Harris,SG,Denver,2.0
+Jose Barea,PG/SG,Dallas,7.5
+Fred VanVleet,PG/SG,Toronto,7.5
+Kris Dunn,PG/SF,Chicago,13.0
+Theo Pinson,PG/SG,Brooklyn,15.0
+Cory Joseph,PG/SG,Sacramento,23.5
+Aaron Holiday,PG/SG,Indiana,11.0
+Goran Dragic,PG,Miami,2.0
+Langston Galloway,PG/SG,Detroit,8.5
+Tomas Satoransky,PG/SF,Chicago,13.0
+Coby White,PG/SG,Chicago,3.5
+Dejounte Murray,PG,San Antonio,16.0
+Ky Bowman,PG,Golden State,29.0
+Dante Exum,PG/SG,Cleveland,28.0
+Jordan Clarkson,PG/SG,Utah,15.0
+Draymond Green,PG/SF,Golden State,28.5
+Delon Wright,PG/SG,Dallas,7.5
+III Evans,PG/SF,Golden State,28.5
+Emmanuel Mudiay,PG,Utah,15.0
+Jerome Robinson,SG,LA Clippers,7.0
+Monte Morris,PG,Denver,11.0
+Bryn Forbes,PG/SG,San Antonio,20.5
+Tyus Jones,PG/SG,Memphis,22.0
+Tim Frazier,PG,Detroit,13.0
+Terence Davis,PG/SG,Toronto,7.5
+Matthew Dellavedova,PG/SG,Cleveland,28.0
+Patty Mills,PG/SG,San Antonio,20.5
+Jalen Brunson,PG/SG,Dallas,7.5
+Malik Monk,PG/SG,Charlotte,13.5
+Shaquille Harrison,PG/SF,Chicago,13.0
+Jr. Walton,PG,LA Clippers,7.0
+Grayson Allen,PG/SG,Memphis,22.0
+Josh Reaves,SG,Dallas,6.0
+D'Angelo Russell,PG/SG,Golden State,27.5
+Malik Beasley,PG/SG,Denver,6.5
+Adam Mokoka,PG/SG,Chicago,3.5
+Matt Thomas,SG,Toronto,3.0
+Yogi Ferrell,PG/SG,Sacramento,23.5
+Brandon Knight,PG/SG,Cleveland,28.0
+Ryan Arcidiacono,PG/SG,Chicago,3.5
+Reggie Jackson,PG/SG,Detroit,8.5
+Kyrie Irving,PG,Brooklyn,20.0
+Antonius Cleveland,SG,Dallas,6.0
+Nigel Williams-Goss,PG,Utah,15.0
+Terance Mann,PG/SF,LA Clippers,8.5
+Amir Coffey,PG/SF,LA Clippers,8.5
+Malcolm Brogdon,PG/SG,Indiana,11.0
+Victor Oladipo,PG/SG,Indiana,11.0
+Max Strus,SG,Chicago,1.0
+John Konchar,SG,Memphis,22.0
+Justin Wright-Foreman,PG,Utah,15.0
+Nazareth Mitrou-Long,PG/SG,Indiana,11.0
+Mike Conley,PG,Utah,15.0
+Caris LeVert,PG/SF,Brooklyn,19.0
+Stephen Curry,PG,Golden State,29.0
+Daryl Macon,PG/SG,Miami,8.0
+Patrick Beverley,PG/SG,LA Clippers,7.0
+Khyri Thomas,SG,Detroit,4.0
+Justise Winslow,PG/SF,Miami,4.0
+Jordan Bone,PG,Detroit,13.0
+Kyle Guy,PG/SG,Sacramento,23.5
+Quinndary Weatherspoon,PG,San Antonio,16.0
+Luguentz Dort,PG,Oklahoma City,17.0
+Shamorie Ponds,PG,Toronto,12.0
+Kobi Simmons,SG,Charlotte,24.0
+Jeremy Lamb,SG/SF,Indiana,6.5
+Buddy Hield,SG/SF,Sacramento,20.0
+DeMar DeRozan,SG/SF,San Antonio,24.0
+Kawhi Leonard,SF/PF,LA Clippers,12.0
+OG Anunoby,SF/PF,Toronto,16.5
+Jimmy Butler,SG/SF,Miami,10.0
+Jae Crowder,SF/PF,Memphis,22.0
+T.J. Warren,SF/PF,Indiana,4.0
+Michael Porter,SF/PF,Denver,12.5
+Joe Ingles,SG/SF,Utah,12.0
+Maurice Harkless,SF/PF,LA Clippers,12.0
+JaMychal Green,SF/PF,LA Clippers,12.0
+Bojan Bogdanovic,SF/PF,Utah,11.0
+Lonnie Walker,SG/SF,San Antonio,24.0
+Sekou Doumbouya,SF/PF,Detroit,17.0
+Dorian Finney-Smith,SF/PF,Dallas,12.5
+Rondae Hollis-Jefferson,SF/PF,Toronto,16.5
+Dwayne Bacon,SG/SF,Charlotte,24.0
+III Robinson,SG/SF,Golden State,27.0
+Harrison Barnes,SF/PF,Sacramento,13.5
+Joe Harris,SG/SF,Brooklyn,14.0
+Cedi Osman,SF/PF,Cleveland,28.5
+Taurean Prince,SF/PF,Brooklyn,11.5
+Derrick Jones,SF/PF,Miami,11.5
+Danilo Gallinari,SF/PF,Oklahoma City,2.5
+Dillon Brooks,SG/SF,Memphis,22.0
+Landry Shamet,SG/SF,LA Clippers,8.5
+Bogdan Bogdanovic,SG/SF,Sacramento,20.0
+Nemanja Bjelica,PF,Sacramento,10.0
+Rodions Kurucs,SF/PF,Brooklyn,11.5
+Eric Paschall,SF/PF,Golden State,25.5
+Paul George,SF,LA Clippers,10.0
+Rudy Gay,SF/PF,San Antonio,23.5
+Sviatoslav Mykhailiuk,SG/SF,Detroit,4.0
+Dzanan Musa,SF/PF,Brooklyn,11.5
+Timothe Luwawu,SG/SF,Brooklyn,14.0
+Trevor Ariza,SF/PF,Sacramento,13.5
+Damion Lee,SG/SF,Golden State,27.0
+Wilson Chandler,SF/PF,Brooklyn,11.5
+Tony Snell,SG/SF,Detroit,4.0
+Kevin Porter,SG/SF,Cleveland,29.5
+Georges Niang,SF/PF,Utah,11.0
+Darius Bazley,SF/PF,Oklahoma City,2.5
+Marvin Williams,SF/PF,Charlotte,24.5
+Royce O'Neale,SF,Utah,9.0
+Thaddeus Young,SF/PF,Chicago,20.0
+Justin Holiday,SG/SF,Indiana,6.5
+Miles Bridges,SF/PF,Charlotte,24.5
+Duncan Robinson,SG/SF,Miami,10.0
+Justin Jackson,SF/PF,Dallas,12.5
+Alec Burks,SG/SF,Golden State,27.0
+Rodney McGruder,SG/SF,LA Clippers,8.5
+Terrance Ferguson,SG/SF,Oklahoma City,5.5
+Hamidou Diallo,SG/SF,Oklahoma City,5.5
+Kyle Anderson,SF/PF,Memphis,22.0
+Solomon Hill,SF/PF,Memphis,22.0
+Doug McDermott,SF/PF,Indiana,4.0
+Patrick McCaw,SG/SF,Toronto,16.0
+Denzel Valentine,SG/SF,Chicago,10.5
+Louis King,SF/PF,Detroit,17.0
+Justin James,SG/SF,Sacramento,20.0
+Stanley Johnson,SF/PF,Toronto,16.5
+Courtney Lee,SG/SF,Dallas,11.0
+Abdel Nader,SF,Oklahoma City,2.0
+Juan Hernangomez,SF/PF,Denver,12.5
+Jarred Vanderbilt,SF/PF,Denver,12.5
+Nicolas Batum,SG/SF,Charlotte,24.0
+Deonte Burton,SG/SF,Oklahoma City,5.5
+Wenyen Gabriel,SF/PF,Sacramento,13.5
+Torrey Craig,SG/SF,Denver,10.5
+James Johnson,SF/PF,Miami,11.5
+JaKarr Sampson,SF/PF,Indiana,4.0
+Juwan Morgan,PF,Utah,13.0
+Alfonzo McKinnie,SF/PF,Cleveland,28.5
+Dion Waiters,SG/SF,Miami,10.0
+Rayjon Tucker,SG/SF,Utah,12.0
+Marco Belinelli,SG/SF,San Antonio,24.0
+Oshae Brissett,SF/PF,Toronto,16.5
+Marko Guduric,SG/SF,Memphis,22.0
+Michael Kidd-Gilchrist,SF/PF,Charlotte,24.5
+DeMarre Carroll,SF,San Antonio,23.0
+Udonis Haslem,PF,Miami,17.0
+Alize Johnson,PF,Indiana,7.0
+Malcolm Miller,SG/SF,Toronto,16.0
+Cody Martin,SG/SF,Charlotte,24.0
+Ryan Broekhoff,SG/SF,Dallas,11.0
+Jr. Hardaway,SG/SF,Dallas,11.0
+Garrett Temple,SG/SF,Brooklyn,14.0
+II Bowen,SG/SF,Indiana,6.5
+Kevin Durant,SF/PF,Brooklyn,11.5
+Andre Roberson,SG/SF,Oklahoma City,5.5
+Otto Porter,SF/PF,Chicago,20.0
+Miye Oni,SG/SF,Utah,12.0
+Dylan Windler,SG/SF,Cleveland,29.5
+Luka Samanic,SF/PF,San Antonio,23.5
+Edmond Sumner,SG/SF,Indiana,6.5
+Vlatko Cancar,SF,Denver,19.0
+Caleb Martin,SG/SF,Charlotte,24.0
+Jarrell Brantley,SF/PF,Utah,11.0
+Yuta Watanabe,SF/PF,Memphis,22.0
+Kevin Hervey,SF/PF,Oklahoma City,2.5
+Jordan Poole,SG/SF,Golden State,27.0
+Keldon Johnson,SG/SF,San Antonio,24.0
+Robert Franks,SF/PF,Charlotte,24.5
+Jalen McDaniels,SF/PF,Charlotte,24.5
+PJ Dozier,SG/SF,Denver,10.5
+Klay Thompson,SG/SF,Golden State,27.0
+Chandler Hutchison,SF/PF,Chicago,20.0
+Norman Powell,SG/SF,Toronto,16.0
+Luke Kennard,SG/SF,Detroit,4.0
+Dean Wade,PF,Cleveland,27.0
+Isaiah Roby,SF/PF,Dallas,12.5
+Andre Iguodala,SG/SF,Memphis,22.0
+DaQuan Jeffries,SG/SF,Sacramento,20.0
+David Nwaba,SG/SF,Brooklyn,14.0
+KZ Okpala,SF/PF,Miami,11.5
+Josh Jackson,SF/PF,Memphis,22.0
+Domantas Sabonis,PF/C,Indiana,14.0
+LaMarcus Aldridge,PF/C,San Antonio,17.0
+Jr. Carter,PF/C,Chicago,24.0
+Rudy Gobert,C,Utah,25.0
+Jonas Valanciunas,C,Memphis,20.0
+Bam Adebayo,C,Miami,17.0
+Kevin Love,PF/C,Cleveland,28.0
+Serge Ibaka,PF/C,Toronto,2.5
+Lauri Markkanen,PF/C,Chicago,24.0
+Montrezl Harrell,PF/C,LA Clippers,16.5
+Andre Drummond,C,Detroit,27.0
+Jaren Jackson,PF/C,Memphis,21.0
+Maxi Kleber,PF/C,Dallas,15.5
+Steven Adams,C,Oklahoma City,23.0
+Myles Turner,C,Indiana,21.0
+Richaun Holmes,PF/C,Sacramento,6.5
+Nikola Jokic,C,Denver,9.0
+P.J. Washington,PF/C,Charlotte,20.5
+DeAndre Jordan,C,Brooklyn,26.0
+Mason Plumlee,PF/C,Denver,7.5
+Marquese Chriss,PF/C,Golden State,14.5
+Ivica Zubac,C,LA Clippers,19.0
+Christian Wood,PF/C,Detroit,28.5
+Tristan Thompson,C,Cleveland,29.0
+Cody Zeller,PF/C,Charlotte,20.5
+Tony Bradley,C,Utah,25.0
+Thon Maker,PF/C,Detroit,28.5
+Paul Millsap,PF/C,Denver,7.5
+Nerlens Noel,C,Oklahoma City,23.0
+Brandon Clarke,PF/C,Memphis,21.0
+John Henson,C,Cleveland,29.0
+Boban Marjanovic,C,Dallas,22.0
+Chris Boucher,PF/C,Toronto,2.5
+Jakob Poeltl,C,San Antonio,10.0
+Omari Spellman,PF/C,Golden State,14.5
+Jarrett Allen,C,Brooklyn,26.0
+Bismack Biyombo,C,Charlotte,16.0
+Alen Smailagic,PF/C,Golden State,14.5
+Daniel Gafford,C,Chicago,28.0
+Harry Giles,PF/C,Sacramento,6.5
+Dwight Powell,C,Dallas,22.0
+Larry Nance,PF/C,Cleveland,28.0
+Jerami Grant,PF/C,Denver,7.5
+Meyers Leonard,PF/C,Miami,17.0
+Chris Silva,C,Miami,17.0
+Henry Ellenson,PF/C,Brooklyn,15.5
+Trey Lyles,PF/C,San Antonio,17.0
+Goga Bitadze,PF/C,Indiana,14.0
+Kelly Olynyk,PF/C,Miami,17.0
+Johnathan Motley,PF/C,LA Clippers,16.5
+TJ Leaf,PF/C,Indiana,14.0
+Patrick Patterson,PF/C,LA Clippers,16.5
+Chimezie Metu,PF/C,San Antonio,17.0
+Caleb Swanigan,PF/C,Sacramento,6.5
+Blake Griffin,PF/C,Detroit,28.5
+Ed Davis,C,Utah,25.0
+Guillermo Hernangomez,C,Charlotte,16.0
+Luke Kornet,PF/C,Chicago,24.0
+Mike Muscala,PF/C,Oklahoma City,13.0
+Ante Zizic,C,Cleveland,29.0
+Bruno Caboclo,PF/C,Memphis,21.0
+Drew Eubanks,PF/C,San Antonio,17.0
+Cristiano Felicio,C,Chicago,28.0
+Marvin Bagley,PF/C,Sacramento,6.5
+Markieff Morris,PF/C,Detroit,28.5
+Dewan Hernandez,PF/C,Toronto,2.5
+Pascal Siakam,PF/C,Toronto,2.5
+Kevon Looney,PF/C,Golden State,14.5
+Nicolas Claxton,PF/C,Brooklyn,15.5
+Tyler Cook,PF/C,Cleveland,28.0
+Kristaps Porzingis,PF/C,Dallas,15.5
+Bol Bol,C,Denver,9.0
+Justin Patton,C,Oklahoma City,23.0
+Mfiondu Kabengele,PF/C,LA Clippers,16.5
+Dewayne Dedmon,C,Sacramento,3.0
+Marc Gasol,C,Toronto,1.0
+Willie Cauley-Stein,C,Golden State,6.0
+James Harden,PG/SG,Houston,12.0
+Ben Simmons,PG/SF,Philadelphia,2.0
+Trae Young,PG,Atlanta,28.0
+Marcus Smart,PG/SG,Boston,12.5
+Russell Westbrook,PG,Houston,4.0
+Kevin Huerter,PG/SG,Atlanta,29.0
+Lonzo Ball,PG,New Orleans,26.0
+Jrue Holiday,PG/SG,New Orleans,22.5
+Brandon Goodwin,PG/SG,Atlanta,29.0
+Trey Burke,PG/SG,Philadelphia,4.5
+Brad Wanamaker,PG/SG,Boston,12.5
+Austin Rivers,PG/SG,Houston,12.0
+Tremont Waters,PG,Boston,8.0
+Raul Neto,PG,Philadelphia,1.0
+Nickeil Alexander-Walker,PG/SG,New Orleans,22.5
+Javonte Green,SG,Boston,17.0
+Shake Milton,PG/SG,Philadelphia,4.5
+Chris Clemons,PG,Houston,4.0
+Frank Jackson,PG/SG,New Orleans,22.5
+Carsen Edwards,PG,Boston,8.0
+Kemba Walker,PG,Boston,8.0
+Evan Turner,PG/SG,Atlanta,29.0
+Josh Gray,PG,New Orleans,26.0
+Michael Frazier,PG/SG,Houston,12.0
+Jaylen Brown,SG/SF,Boston,11.0
+Brandon Ingram,SF/PF,New Orleans,23.0
+Tobias Harris,SF/PF,Philadelphia,2.5
+Gordon Hayward,SF/PF,Boston,3.0
+Jayson Tatum,SF/PF,Boston,3.0
+E'Twaun Moore,SG/SF,New Orleans,22.0
+J.J. Redick,SG/SF,New Orleans,22.0
+Josh Richardson,SG/SF,Philadelphia,5.5
+Eric Gordon,SG/SF,Houston,16.5
+Josh Hart,SG/SF,New Orleans,22.0
+Allen Crabbe,SG/SF,Atlanta,28.0
+Furkan Korkmaz,SG/SF,Philadelphia,5.5
+Jabari Parker,SF/PF,Atlanta,27.0
+Cam Reddish,SG/SF,Atlanta,28.0
+De'Andre Hunter,SF/PF,Atlanta,27.0
+Grant Williams,SF/PF,Boston,3.0
+Danuel House,SF/PF,Houston,16.0
+P.J. Tucker,SF/PF,Houston,16.0
+Mike Scott,SF/PF,Philadelphia,2.5
+DeAndre Bembry,SG/SF,Atlanta,28.0
+Ben McLemore,SG/SF,Houston,16.5
+Kenrich Williams,SF/PF,New Orleans,23.0
+Romeo Langford,SG/SF,Boston,11.0
+Vince Carter,SF/PF,Atlanta,27.0
+Thabo Sefolosha,SF/PF,Houston,16.0
+Semi Ojeleye,SF/PF,Boston,3.0
+Zhaire Smith,SG/SF,Philadelphia,5.5
+Matisse Thybulle,SG/SF,Philadelphia,5.5
+William Howard,SF/PF,Houston,16.0
+James Ennis,SF/PF,Philadelphia,2.5
+Gerald Green,SG/SF,Houston,16.5
+Chandler Parsons,SF/PF,Atlanta,27.0
+Zylan Cheatham,SF/PF,New Orleans,23.0
+Charlie Brown,SG/SF,Atlanta,28.0
+Darius Miller,SF/PF,New Orleans,23.0
+Marial Shayok,SG/SF,Philadelphia,5.5
+Clint Capela,C,Houston,11.0
+Joel Embiid,C,Philadelphia,15.0
+Derrick Favors,PF/C,New Orleans,17.5
+Enes Kanter,C,Boston,2.0
+Daniel Theis,PF/C,Boston,1.5
+John Collins,PF/C,Atlanta,29.0
+Alex Len,C,Atlanta,30.0
+Al Horford,PF/C,Philadelphia,8.5
+Jaxson Hayes,C,New Orleans,14.0
+Isaiah Hartenstein,PF/C,Houston,15.0
+Bruno Fernando,C,Atlanta,30.0
+Gary Clark,PF/C,Houston,15.0
+Norvel Pelle,C,Philadelphia,15.0
+Tyson Chandler,C,Houston,11.0
+Jahlil Okafor,C,New Orleans,14.0
+Damian Jones,C,Atlanta,30.0
+Nicolo Melli,PF/C,New Orleans,17.5
+Kyle O'Quinn,PF/C,Philadelphia,8.5
+Jonah Bolden,PF/C,Philadelphia,8.5
+Zion Williamson,PF/C,New Orleans,17.5
+Tacko Fall,C,Boston,2.0
+Nene Hilario,C,Houston,11.0
+Vincent Poirier,C,Boston,2.0
+Robert Williams,PF/C,Boston,1.5
+Chris Chiozza,PG/SG,Brooklyn,15.0
+Justin Anderson,SF/PF,Brooklyn,11.5
+Paul Watson,SG/SF,Atlanta,28.0
+Levi Randolph,PG/SG,Cleveland,28.0
+Gabe Vincent,PG/SG,Miami,8.0
+Vic Law,SF/PF,Orlando,13.0
+Tariq Owens,C,Phoenix,12.0
+Kenny Wooten,C,New York,4.0
+Kyle Alexander,PF,Miami,17.0
+Jeremiah Martin,PG,Brooklyn,20.0
+Ray Spalding,C,Charlotte,16.0
+Matthew Mooney,PG/SG,Cleveland,28.0
+Marques Bolden,C,Cleveland,29.0
+Eric Mika,C,Sacramento,3.0
+Jeremy Pargo,PG,Golden State,29.0
+Jr. Norvell,PG/SG,Golden State,27.5
+Juan Toscano-Anderson,SF/PF,Golden State,25.5
+J.P. Macura,SG,Cleveland,29.0
+Malik Newman,PG/SG,Cleveland,28.0
+Jeff Green,PF/C,Houston,15.0
+Dusty Hannahs,PG,Memphis,22.0
+Joe Chealey,SG,Charlotte,24.0
+Donta Hall,PF/C,Detroit,28.5
+Mychal Mulder,SG,Golden State,26.0
+Jarrod Uthoff,PF,Memphis,22.0
