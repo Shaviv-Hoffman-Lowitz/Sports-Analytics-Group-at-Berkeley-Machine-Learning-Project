@@ -1,514 +1,514 @@
 player name,team,position
-"Hunter,De'Andre",ATL,SF
-"Young,Trae",ATL,PG
-"Carter,Vince",ATL,SF
-"Reddish,Cam",ATL,SF
-"Huerter,Kevin",ATL,SG
-"Fernando,Bruno",ATL,C
-"Jones,Damian",ATL,C
-"Bembry,DeAndre'",ATL,SG
-"Collins,John",ATL,PF
-"Goodwin,Brandon",ATL,PG
-"Teague,Jeff",ATL,PG
-"Graham,Treveon",ATL,SG
-"Dedmon,Dewayne",ATL,C
-"Brown,Charlie",ATL,SG
-"Capela,Clint",ATL,C
-"Labissière,Skal",ATL,F
-"Dinwiddie,Spencer",BRK,SG
-"Waller-Prince,Taurean",BRK,SF
-"Allen,Jarrett",BRK,C
-"Harris,Joe",BRK,SF
-"Jordan,DeAndre",BRK,C
-"Temple,Garrett",BRK,SG
-"LeVert,Caris",BRK,SG
-"Luwawu-Cabarrot,Timothé",BRK,SG
-"Kurucs,Rodions",BRK,PF
-"Chandler,Wilson",BRK,SF
-"Musa,Džanan",BRK,SF
-"Irving,Kyrie",BRK,PG
-"Claxton,Nicolas",BRK,PF
-"Chiozza,Chris",BRK,PG
-"Martin,Jeremiah",BRK,PG
-"Hall,Donta",BRK,F
-"Durant,Kevin",BRK,F-G
-"Johnson,Tyler",BRK,G
-"Crawford,Jamal",BRK,G
-"Beasley,Michael",BRK,F
-"Wanamaker,Brad",BOS,PG
-"Williams,Grant",BOS,PF
-"Ojeleye,Semi",BOS,PF
-"Tatum,Jayson",BOS,PF
-"Theis,Daniel",BOS,C
-"Smart,Marcus",BOS,SG
-"Kanter,Enes",BOS,C
-"Walker,Kemba",BOS,PG
-"Brown,Jaylen",BOS,SF
-"Hayward,Gordon",BOS,SF
-"Green,Javonte",BOS,SF
-"Edwards,Carsen",BOS,SG
-"Langford,Romeo",BOS,SG
-"Williams,Robert",BOS,C
-"Poirier,Vincent",BOS,C
-"Waters,Tremont",BOS,PG
-"Fall,Tacko",BOS,C
-"Bridges,Miles",CHO,SF
-"Graham,Devonte'",CHO,PG
-"Rozier,Terry",CHO,PG
-"Washington,P.J.",CHO,PF
-"Zeller,Cody",CHO,C
-"Monk,Malik",CHO,SG
-"Biyombo,Bismack",CHO,C
-"Martin,Cody",CHO,SF
-"Bacon,Dwayne",CHO,SG
-"Hernangómez,Willy",CHO,C
-"Batum,Nicolas",CHO,SF
-"Martin,Caleb",CHO,SF
-"McDaniels,Jalen",CHO,PF
-"Chealey,Joe",CHO,PG
-"Simmons,Kobi",CHO,G
-"Spalding,Ray",CHO,F
-"White,Coby",CHI,SG
-"Satoranský,Tomáš",CHI,PG
-"Young,Thaddeus",CHI,PF
-"LaVine,Zach",CHI,SG
-"Arcidiacono,Ryan",CHI,PG
-"Dunn,Kris",CHI,PG
-"Markkanen,Lauri",CHI,PF
-"Carter,Wendell",CHI,C
-"Gafford,Daniel",CHI,C
-"Harrison,Shaquille",CHI,SF
-"Valentine,Denzel",CHI,SF
-"Kornet,Luke",CHI,C
-"Hutchison,Chandler",CHI,SF
-"Felício,Cristiano",CHI,PF
-"Porter,Otto",CHI,SF
-"Mokoka,Adam",CHI,SG
-"Strus,Max",CHI,SG
-"Sexton,Collin",CLE,SG
-"Osman,Cedi",CLE,SF
-"Garland,Darius",CLE,PG
-"Thompson,Tristan",CLE,C
-"Dellavedova,Matthew",CLE,PG
-"Love,Kevin",CLE,PF
-"Nance,Larry",CLE,C
-"Porter,Kevin",CLE,SF
-"McKinnie,Alfonzo",CLE,SF
-"Exum,Dante",CLE,SG
-"Žižić,Ante",CLE,C
-"Wade,Dean",CLE,PF
-"Drummond,Andre",CLE,C
-"Mooney,Matt",CLE,SG
-"Pointer,Sir'Dominic",CLE,G-F
-"Mac,Sheldon",CLE,G
-"Windler,Dylan",CLE,G-F
-"Bell,Jordan",CLE,F
-"Kleber,Maxi",DAL,C
-"Wright,Delon",DAL,SG
-"Finney-Smith,Dorian",DAL,PF
-"Hardaway,Tim",DAL,SG
-"Curry,Seth",DAL,SG
-"Jackson,Justin",DAL,PF
-"Brunson,Jalen",DAL,PG
-"Dončić,Luka",DAL,PG
-"Porziņģis,Kristaps",DAL,PF
-"Powell,Dwight",DAL,C
-"Marjanović,Boban",DAL,C
-"Barea,J.J.",DAL,PG
-"Lee,Courtney",DAL,SG
-"Cauley-Stein,Willie",DAL,C
-"Kidd-Gilchrist,Michael",DAL,SF
-"Cleveland,Antonius",DAL,SG
-"Reaves,Josh",DAL,SG
-"Burke,Trey",DAL,G
-"Jokić,Nikola",DEN,C
-"Morris,Monte",DEN,PG
-"Grant,Jerami",DEN,PF
-"Barton,Will",DEN,SF
-"Harris,Gary",DEN,SG
-"Murray,Jamal",DEN,PG
-"Plumlee,Mason",DEN,C
-"Craig,Torrey",DEN,SF
-"Porter,Michael",DEN,PF
-"Millsap,Paul",DEN,PF
-"Dozier,PJ",DEN,PG
-"Čančar,Vlatko",DEN,SF
-"Vonleh,Noah",DEN,PF
-"Bates-Diop,Keita",DEN,SF
-"Daniels,Troy",DEN,SG
-"Bol,Bol",DEN,C
-"Cook,Tyler",DEN,F
-"Galloway,Langston",DET,SG
-"Wood,Christian",DET,PF
-"Maker,Thon",DET,C
-"Snell,Tony",DET,SF
-"Brown,Bruce",DET,SG
-"Mykhailiuk,Sviatoslav",DET,SF
-"Rose,Derrick",DET,PG
-"Doumbouya,Sekou",DET,SF
-"Kennard,Luke",DET,SG
-"Griffin,Blake",DET,PF
-"Henson,John",DET,PF
-"King,Louis",DET,SF
-"Bone,Jordan",DET,PG
-"Knight,Brandon",DET,PG
-"Thomas,Khyri",DET,SG
-"McRae,Jordan",DET,SG
-"Patton,Justin",DET,C
-"Paschall,Eric",GSW,PF
-"Chriss,Marquese",GSW,PF
-"Poole,Jordan",GSW,SG
-"Lee,Damion",GSW,SG
-"Bowman,Ky",GSW,PG
-"Green,Draymond",GSW,PF
-"Looney,Kevon",GSW,C
-"Smailagić,Alen",GSW,PF
-"Toscano-Anderson,Juan",GSW,SF
-"Wiggins,Andrew",GSW,SG
-"Bender,Dragan",GSW,SF
-"Mulder,Mychal",GSW,SG
-"Curry,Stephen",GSW,PG
-"Randle,Chasson",GSW,PG
-"Thompson,Klay",GSW,G-F
-"Tucker,P.J.",HOU,PF
-"McLemore,Ben",HOU,SG
-"Harden,James",HOU,SG
-"Rivers,Austin",HOU,SG
-"House,Danuel",HOU,SF
-"Westbrook,Russell",HOU,PG
-"Sefolosha,Thabo",HOU,PF
-"Gordon,Eric",HOU,SG
-"Clemons,Chris",HOU,SG
-"Chandler,Tyson",HOU,C
-"Covington,Robert",HOU,PF
-"Green,Jeff",HOU,PF
-"Frazier,Michael",HOU,SG
-"Carroll,DeMarre",HOU,SF
-"Caboclo,Bruno",HOU,SF
-"Howard,William",HOU,SG
-"Nwaba,David",HOU,G
-"Mbah a Moute,Luc",HOU,F
-"Holiday,Justin",IND,SG
-"McConnell,T.J.",IND,PG
-"Sabonis,Domantas",IND,C
-"McDermott,Doug",IND,PF
-"Warren,T.J.",IND,SF
-"Holiday,Aaron",IND,PG
-"Turner,Myles",IND,C
-"Bitadze,Goga",IND,C
-"Brogdon,Malcolm",IND,PG
-"Lamb,Jeremy",IND,SG
-"Sampson,JaKarr",IND,SF
-"Sumner,Edmond",IND,PG
-"Leaf,T.J.",IND,PF
-"Oladipo,Victor",IND,SG
-"Johnson,Alize",IND,SF
-"Bowen,Brian",IND,SG
-"Mitrou-Long,Naz",IND,SG
-"Zubac,Ivica",LAC,C
-"Harrell,Montrezl",LAC,C
-"Williams,Lou",LAC,SG
-"Green,JaMychal",LAC,PF
-"Leonard,Kawhi",LAC,SF
-"Patterson,Patrick",LAC,PF
-"McGruder,Rodney",LAC,SG
-"Beverley,Patrick",LAC,PG
-"Shamet,Landry",LAC,SG
-"George,Paul",LAC,SF
-"Mann,Terance",LAC,SG
-"Motley,Johnathan",LAC,PF
-"Coffey,Amir",LAC,SG
-"Morris,Marcus",LAC,PF
-"Kabengele,Mfiondu",LAC,C
-"Jackson,Reggie",LAC,PG
-"Noah,Joakim",LAC,C
-"Caldwell-Pope,Kentavious",LAL,SG
-"Howard,Dwight",LAL,C
-"Green,Danny",LAL,SG
-"McGee,JaVale",LAL,C
-"James,LeBron",LAL,PG
-"Caruso,Alex",LAL,PG
-"Davis,Anthony",LAL,PF
-"Kuzma,Kyle",LAL,PF
-"Bradley,Avery",LAL,SG
-"Rondo,Rajon",LAL,PG
-"Dudley,Jared",LAL,SF
-"Cook,Quinn",LAL,PG
-"Morris,Markieff",LAL,PF
-"Antetokounmpo,Kostas",LAL,PF
-"Horton-Tucker,Talen",LAL,SG
-"Cacok,Devontae",LAL,F
-"Waiters,Dion",LAL,G
-"Smith,J.R.",LAL,G-F
-"Brooks,Dillon",MEM,SG
-"Jones,Tyus",MEM,PG
-"Valančiūnas,Jonas",MEM,C
-"Morant,Ja",MEM,PG
-"Anderson,Kyle",MEM,PF
-"Jackson,Jaren",MEM,C
-"Melton,De'Anthony",MEM,PG
-"Clarke,Brandon",MEM,PF
-"Guduric,Marko",MEM,SG
-"Allen,Grayson",MEM,SG
-"Jackson,Josh",MEM,SG
-"Watanabe,Yuta",MEM,SG
-"Konchar,John",MEM,SG
-"Dieng,Gorgui",MEM,C
-"Tolliver,Anthony",MEM,PF
-"Winslow,Justise",MEM,F
-"Porter,Jontay",MEM,F-C
-"Adebayo,Bam",MIA,PF
-"Robinson,Duncan",MIA,SF
-"Nunn,Kendrick",MIA,SG
-"Olynyk,Kelly",MIA,C
-"Butler,Jimmy",MIA,SF
-"Dragić,Goran",MIA,PG
-"Jones,Derrick",MIA,SF
-"Leonard,Meyers",MIA,C
-"Herro,Tyler",MIA,SG
-"Silva,Chris",MIA,PF
-"Iguodala,Andre",MIA,SG
-"Crowder,Jae",MIA,SF
-"Hill,Solomon",MIA,SF
-"Vincent,Gabe",MIA,PG
-"Okpala,KZ",MIA,SF
-"Haslem,Udonis",MIA,PF
-"Alexander,Kyle",MIA,F
-"Matthews,Wesley",MIL,SG
-"Lopez,Brook",MIL,C
-"Connaughton,Pat",MIL,SG
-"Lopez,Robin",MIL,C
-"DiVincenzo,Donte",MIL,SG
-"Antetokounmpo,Giannis",MIL,PF
-"Bledsoe,Eric",MIL,PG
-"İlyasova,Ersan",MIL,PF
-"Middleton,Khris",MIL,SF
-"Hill,George",MIL,PG
-"Korver,Kyle",MIL,SF
-"Brown,Sterling",MIL,SF
-"Wilson,D.J.",MIL,PF
-"Antetokounmpo,Thanasis",MIL,SF
-"Williams,Marvin",MIL,PF
-"Mason,Frank",MIL,PG
-"Reynolds,Cameron",MIL,G
-"Culver,Jarrett",MIN,SG
-"Okogie,Josh",MIN,SG
-"Towns,Karl-Anthony",MIN,C
-"Martin,Kelan",MIN,SF
-"Reid,Naz",MIN,C
-"McLaughlin,Jordan",MIN,PG
-"Layman,Jake",MIN,PF
-"Nowell,Jaylen",MIN,SG
-"Beasley,Malik",MIN,SG
-"Hernangómez,Juan",MIN,PF
-"Johnson,James",MIN,PF
-"Russell,D'Angelo",MIN,PG
-"Vanderbilt,Jarred",MIN,PF
-"Evans,Jacob",MIN,SG
-"Turner,Evan",MIN,G
-"Spellman,Omari",MIN,F
-"Hart,Josh",NOP,SF
-"Ingram,Brandon",NOP,PF
-"Ball,Lonzo",NOP,PG
-"Hayes,Jaxson",NOP,C
-"Holiday,Jrue",NOP,SG
-"Redick,J.J.",NOP,SG
-"Melli,Nicolò",NOP,C
-"Moore,E'Twaun",NOP,SG
-"Jackson,Frank",NOP,PG
-"Favors,Derrick",NOP,C
-"Alexander-Walker,Nickeil",NOP,SG
-"Williams,Kenrich",NOP,PF
-"Okafor,Jahlil",NOP,C
-"Williamson,Zion",NOP,PF
-"Cheatham,Zylan",NOP,SF
-"Gray,Josh",NOP,PG
-"Miller,Darius",NOP,F
-"Thornwell,Sindarius",NOP,G
-"Portis,Bobby",NYK,C
-"Knox,Kevin",NYK,SF
-"Randle,Julius",NYK,PF
-"Gibson,Taj",NYK,C
-"Robinson,Mitchell",NYK,C
-"Ntilikina,Frank",NYK,PG
-"Barrett,RJ",NYK,SG
-"Dotson,Damyean",NYK,SG
-"Payton,Elfrid",NYK,PG
-"Ellington,Wayne",NYK,SG
-"Smith,Dennis",NYK,PG
-"Bullock,Reggie",NYK,SG
-"Harkless,Maurice",NYK,SF
-"Brazdeikis,Ignas",NYK,SF
-"Pinson,Theo",NYK,G
-"Wooten,Kenny",NYK,F
-"Harper,Jared",NYK,G
-"Gilgeous-Alexander,Shai",OKC,SG
-"Schröder,Dennis",OKC,PG
-"Paul,Chris",OKC,PG
-"Adams,Steven",OKC,C
-"Gallinari,Danilo",OKC,PF
-"Noel,Nerlens",OKC,C
-"Bazley,Darius",OKC,PF
-"Ferguson,Terrance",OKC,SF
-"Nader,Abdel",OKC,SF
-"Muscala,Mike",OKC,C
-"Diallo,Hamidou",OKC,SF
-"Burton,Deonte",OKC,SG
-"Dort,Luguentz",OKC,SG
-"Hervey,Kevin",OKC,PF
-"Hall,Devon",OKC,SG
-"Roby,Isaiah",OKC,SF
-"Roberson,Andre",OKC,G-F
-"Fultz,Markelle",ORL,PG
-"Ross,Terrence",ORL,SG
-"Fournier,Evan",ORL,SG
-"Bamba,Mohamed",ORL,C
-"Gordon,Aaron",ORL,PF
-"Vučević,Nikola",ORL,C
-"Augustin,D.J.",ORL,PG
-"Iwundu,Wesley",ORL,SF
-"Carter-Williams,Michael",ORL,SG
-"Birch,Khem",ORL,C
-"Isaac,Jonathan",ORL,SF
-"Aminu,Al-Farouq",ORL,PF
-"Clark,Gary",ORL,PF
-"Frazier,Melvin",ORL,SG
-"Ennis,James",ORL,SF
-"Johnson,B.J.",ORL,SF
-"Law,Vic",ORL,SF
-"Harris,Tobias",PHI,PF
-"Korkmaz,Furkan",PHI,SG
-"Scott,Mike",PHI,PF
-"Horford,Al",PHI,C
-"Thybulle,Matisse",PHI,SG
-"Simmons,Ben",PHI,PG
-"Neto,Raul",PHI,PG
-"Richardson,Josh",PHI,SG
-"Embiid,Joel",PHI,C
-"Milton,Shake",PHI,SG
-"O'Quinn,Kyle",PHI,C
-"Pelle,Norvel",PHI,C
-"Robinson,Glenn",PHI,SF
-"Burks,Alec",PHI,SG
-"Smith,Zhaire",PHI,SG
-"Shayok,Marial",PHI,SG
-"Broekhoff,Ryan",PHI,F
-"Bridges,Mikal",PHO,SF
-"Booker,Devin",PHO,SG
-"Šarić,Dario",PHO,PF
-"Rubio,Ricky",PHO,PG
-"Oubre,Kelly",PHO,SF
-"Okobo,Elie",PHO,PG
-"Carter,Jevon",PHO,PG
-"Johnson,Cameron",PHO,PF
-"Diallo,Cheick",PHO,C
-"Baynes,Aron",PHO,C
-"Kaminsky,Frank",PHO,C
-"Ayton,Deandre",PHO,C
-"Jerome,Ty",PHO,PG
-"Lecque,Jalen",PHO,PG
-"Owens,Tariq",PHO,PF
-"Payne,Cameron",PHO,G
-"Simons,Anfernee",POR,SG
-"McCollum,CJ",POR,SG
-"Whiteside,Hassan",POR,C
-"Lillard,Damian",POR,PG
-"Trent,Gary",POR,SG
-"Anthony,Carmelo",POR,PF
-"Little,Nassir",POR,PF
-"Hezonja,Mario",POR,PF
-"Ariza,Trevor",POR,SF
-"Hood,Rodney",POR,SF
-"Swanigan,Caleb",POR,PF
-"Gabriel,Wenyen",POR,PF
-"Hoard,Jaylen",POR,SF
-"Brown,Moses",POR,C
-"Collins,Zach",POR,PF
-"Nurkić,Jusuf",POR,C
-"Adams,Jaylen",POR,G
-"Hield,Buddy",SAC,SG
-"Barnes,Harrison",SAC,PF
-"Bjelica,Nemanja",SAC,PF
-"Joseph,Cory",SAC,PG
-"Bogdanović,Bogdan",SAC,SG
-"Fox,De'Aaron",SAC,PG
-"Ferrell,Yogi",SAC,PG
-"Holmes,Richaun",SAC,C
-"Giles,Harry",SAC,PF
-"James,Justin",SAC,SG
-"Bazemore,Kent",SAC,SG
-"Bagley,Marvin",SAC,PF
-"Len,Alex",SAC,C
-"Jeffries,DaQuan",SAC,SG
-"Guy,Kyle",SAC,SG
-"Parker,Jabari",SAC,PF
-"Brewer,Corey",SAC,F-G
-"Mills,Patty",SAS,PG
-"Forbes,Bryn",SAS,SG
-"Lyles,Trey",SAS,PF
-"DeRozan,DeMar",SAS,SF
-"White,Derrick",SAS,SG
-"Gay,Rudy",SAS,PF
-"Murray,Dejounte",SAS,PG
-"Poeltl,Jakob",SAS,C
-"Aldridge,LaMarcus",SAS,C
-"Walker,Lonnie",SAS,SG
-"Belinelli,Marco",SAS,SG
-"Metu,Chimezie",SAS,PF
-"Eubanks,Drew",SAS,PF
-"Johnson,Keldon",SAS,SF
-"Weatherspoon,Quinndary",SAS,SG
-"Šamanić,Luka",SAS,PF
-"Zeller,Tyler",SAS,F-C
-"Davis,Terence",TOR,SG
-"Anunoby,OG",TOR,SF
-"Boucher,Chris",TOR,PF
-"Siakam,Pascal",TOR,PF
-"Lowry,Kyle",TOR,PG
-"Hollis-Jefferson,Rondae",TOR,SF
-"Ibaka,Serge",TOR,C
-"VanVleet,Fred",TOR,PG
-"Powell,Norman",TOR,SG
-"McCaw,Patrick",TOR,SF
-"Gasol,Marc",TOR,C
-"Thomas,Matt",TOR,SG
-"Miller,Malcolm",TOR,SF
-"Johnson,Stanley",TOR,PF
-"Brissett,Oshae",TOR,SF
-"Hernandez,Dewan",TOR,C
-"Watson,Paul",TOR,SF
-"Ingles,Joe",UTA,SF
-"O'Neale,Royce",UTA,PF
-"Mitchell,Donovan",UTA,SG
-"Bogdanović,Bojan",UTA,SF
-"Gobert,Rudy",UTA,C
-"Niang,Georges",UTA,PF
-"Bradley,Tony",UTA,C
-"Mudiay,Emmanuel",UTA,PG
-"Conley,Mike",UTA,PG
-"Clarkson,Jordan",UTA,SG
-"Davis,Ed",UTA,C
-"Morgan,Juwan",UTA,PF
-"Tucker,Rayjon",UTA,SG
-"Williams-Goss,Nigel",UTA,PG
-"Oni,Miye",UTA,SG
-"Brantley,Jarrell",UTA,PF
-"Wright-Foreman,Justin",UTA,PG
-"Brown,Troy",WAS,SG
-"Smith,Ish",WAS,PG
-"Bonga,Isaac",WAS,SF
-"Beal,Bradley",WAS,SG
-"Bertāns,Dāvis",WAS,PF
-"Hachimura,Rui",WAS,PF
-"Bryant,Thomas",WAS,C
-"Mahinmi,Ian",WAS,C
-"Wagner,Moritz",WAS,C
-"Payton,Gary",WAS,PG
-"Schofield,Admiral",WAS,SF
-"Pasečņiks,Anžejs",WAS,C
-"Mathews,Garrison",WAS,SG
-"Napier,Shabazz",WAS,PG
-"Robinson,Jerome",WAS,SG
-"Williams,Johnathan",WAS,C
-"Wall,John",WAS,G
-"Grant,Jerian",WAS,G
+De'Andre Hunter,ATL,SF
+Trae Young,ATL,PG
+Vince Carter,ATL,SF
+Cam Reddish,ATL,SF
+Kevin Huerter,ATL,SG
+Bruno Fernando,ATL,C
+Damian Jones,ATL,C
+DeAndre' Bembry,ATL,SG
+John Collins,ATL,PF
+Brandon Goodwin,ATL,PG
+Jeff Teague,ATL,PG
+Treveon Graham,ATL,SG
+Dewayne Dedmon,ATL,C
+Charlie Brown,ATL,SG
+Clint Capela,ATL,C
+Skal Labissière,ATL,F
+Spencer Dinwiddie,BRK,SG
+Taurean Waller-Prince,BRK,SF
+Jarrett Allen,BRK,C
+Joe Harris,BRK,SF
+DeAndre Jordan,BRK,C
+Garrett Temple,BRK,SG
+Caris LeVert,BRK,SG
+Timothé Luwawu-Cabarrot,BRK,SG
+Rodions Kurucs,BRK,PF
+Wilson Chandler,BRK,SF
+Džanan Musa,BRK,SF
+Kyrie Irving,BRK,PG
+Nicolas Claxton,BRK,PF
+Chris Chiozza,BRK,PG
+Jeremiah Martin,BRK,PG
+Donta Hall,BRK,F
+Kevin Durant,BRK,F-G
+Tyler Johnson,BRK,G
+Jamal Crawford,BRK,G
+Michael Beasley,BRK,F
+Brad Wanamaker,BOS,PG
+Grant Williams,BOS,PF
+Semi Ojeleye,BOS,PF
+Jayson Tatum,BOS,PF
+Daniel Theis,BOS,C
+Marcus Smart,BOS,SG
+Enes Kanter,BOS,C
+Kemba Walker,BOS,PG
+Jaylen Brown,BOS,SF
+Gordon Hayward,BOS,SF
+Javonte Green,BOS,SF
+Carsen Edwards,BOS,SG
+Romeo Langford,BOS,SG
+Robert Williams,BOS,C
+Vincent Poirier,BOS,C
+Tremont Waters,BOS,PG
+Tacko Fall,BOS,C
+Miles Bridges,CHO,SF
+Devonte' Graham,CHO,PG
+Terry Rozier,CHO,PG
+P.J. Washington,CHO,PF
+Cody Zeller,CHO,C
+Malik Monk,CHO,SG
+Bismack Biyombo,CHO,C
+Cody Martin,CHO,SF
+Dwayne Bacon,CHO,SG
+Willy Hernangómez,CHO,C
+Nicolas Batum,CHO,SF
+Caleb Martin,CHO,SF
+Jalen McDaniels,CHO,PF
+Joe Chealey,CHO,PG
+Kobi Simmons,CHO,G
+Ray Spalding,CHO,F
+Coby White,CHI,SG
+Tomáš Satoranský,CHI,PG
+Thaddeus Young,CHI,PF
+Zach LaVine,CHI,SG
+Ryan Arcidiacono,CHI,PG
+Kris Dunn,CHI,PG
+Lauri Markkanen,CHI,PF
+Wendell Carter,CHI,C
+Daniel Gafford,CHI,C
+Shaquille Harrison,CHI,SF
+Denzel Valentine,CHI,SF
+Luke Kornet,CHI,C
+Chandler Hutchison,CHI,SF
+Cristiano Felício,CHI,PF
+Otto Porter,CHI,SF
+Adam Mokoka,CHI,SG
+Max Strus,CHI,SG
+Collin Sexton,CLE,SG
+Cedi Osman,CLE,SF
+Darius Garland,CLE,PG
+Tristan Thompson,CLE,C
+Matthew Dellavedova,CLE,PG
+Kevin Love,CLE,PF
+Larry Nance,CLE,C
+Kevin Porter,CLE,SF
+Alfonzo McKinnie,CLE,SF
+Dante Exum,CLE,SG
+Ante Žižić,CLE,C
+Dean Wade,CLE,PF
+Andre Drummond,CLE,C
+Matt Mooney,CLE,SG
+Sir'Dominic Pointer,CLE,G-F
+Sheldon Mac,CLE,G
+Dylan Windler,CLE,G-F
+Jordan Bell,CLE,F
+Maxi Kleber,DAL,C
+Delon Wright,DAL,SG
+Dorian Finney-Smith,DAL,PF
+Tim Hardaway,DAL,SG
+Seth Curry,DAL,SG
+Justin Jackson,DAL,PF
+Jalen Brunson,DAL,PG
+Luka Dončić,DAL,PG
+Kristaps Porziņģis,DAL,PF
+Dwight Powell,DAL,C
+Boban Marjanović,DAL,C
+J.J. Barea,DAL,PG
+Courtney Lee,DAL,SG
+Willie Cauley-Stein,DAL,C
+Michael Kidd-Gilchrist,DAL,SF
+Antonius Cleveland,DAL,SG
+Josh Reaves,DAL,SG
+Trey Burke,DAL,G
+Nikola Jokić,DEN,C
+Monte Morris,DEN,PG
+Jerami Grant,DEN,PF
+Will Barton,DEN,SF
+Gary Harris,DEN,SG
+Jamal Murray,DEN,PG
+Mason Plumlee,DEN,C
+Torrey Craig,DEN,SF
+Michael Porter,DEN,PF
+Paul Millsap,DEN,PF
+PJ Dozier,DEN,PG
+Vlatko Čančar,DEN,SF
+Noah Vonleh,DEN,PF
+Keita Bates-Diop,DEN,SF
+Troy Daniels,DEN,SG
+Bol Bol,DEN,C
+Tyler Cook,DEN,F
+Langston Galloway,DET,SG
+Christian Wood,DET,PF
+Thon Maker,DET,C
+Tony Snell,DET,SF
+Bruce Brown,DET,SG
+Sviatoslav Mykhailiuk,DET,SF
+Derrick Rose,DET,PG
+Sekou Doumbouya,DET,SF
+Luke Kennard,DET,SG
+Blake Griffin,DET,PF
+John Henson,DET,PF
+Louis King,DET,SF
+Jordan Bone,DET,PG
+Brandon Knight,DET,PG
+Khyri Thomas,DET,SG
+Jordan McRae,DET,SG
+Justin Patton,DET,C
+Eric Paschall,GSW,PF
+Marquese Chriss,GSW,PF
+Jordan Poole,GSW,SG
+Damion Lee,GSW,SG
+Ky Bowman,GSW,PG
+Draymond Green,GSW,PF
+Kevon Looney,GSW,C
+Alen Smailagić,GSW,PF
+Juan Toscano-Anderson,GSW,SF
+Andrew Wiggins,GSW,SG
+Dragan Bender,GSW,SF
+Mychal Mulder,GSW,SG
+Stephen Curry,GSW,PG
+Chasson Randle,GSW,PG
+Klay Thompson,GSW,G-F
+P.J. Tucker,HOU,PF
+Ben McLemore,HOU,SG
+James Harden,HOU,SG
+Austin Rivers,HOU,SG
+Danuel House,HOU,SF
+Russell Westbrook,HOU,PG
+Thabo Sefolosha,HOU,PF
+Eric Gordon,HOU,SG
+Chris Clemons,HOU,SG
+Tyson Chandler,HOU,C
+Robert Covington,HOU,PF
+Jeff Green,HOU,PF
+Michael Frazier,HOU,SG
+DeMarre Carroll,HOU,SF
+Bruno Caboclo,HOU,SF
+William Howard,HOU,SG
+David Nwaba,HOU,G
+Luc Mbah a Moute,HOU,F
+Justin Holiday,IND,SG
+T.J. McConnell,IND,PG
+Domantas Sabonis,IND,C
+Doug McDermott,IND,PF
+T.J. Warren,IND,SF
+Aaron Holiday,IND,PG
+Myles Turner,IND,C
+Goga Bitadze,IND,C
+Malcolm Brogdon,IND,PG
+Jeremy Lamb,IND,SG
+JaKarr Sampson,IND,SF
+Edmond Sumner,IND,PG
+T.J. Leaf,IND,PF
+Victor Oladipo,IND,SG
+Alize Johnson,IND,SF
+Brian Bowen,IND,SG
+Naz Mitrou-Long,IND,SG
+Ivica Zubac,LAC,C
+Montrezl Harrell,LAC,C
+Lou Williams,LAC,SG
+JaMychal Green,LAC,PF
+Kawhi Leonard,LAC,SF
+Patrick Patterson,LAC,PF
+Rodney McGruder,LAC,SG
+Patrick Beverley,LAC,PG
+Landry Shamet,LAC,SG
+Paul George,LAC,SF
+Terance Mann,LAC,SG
+Johnathan Motley,LAC,PF
+Amir Coffey,LAC,SG
+Marcus Morris,LAC,PF
+Mfiondu Kabengele,LAC,C
+Reggie Jackson,LAC,PG
+Joakim Noah,LAC,C
+Kentavious Caldwell-Pope,LAL,SG
+Dwight Howard,LAL,C
+Danny Green,LAL,SG
+JaVale McGee,LAL,C
+LeBron James,LAL,PG
+Alex Caruso,LAL,PG
+Anthony Davis,LAL,PF
+Kyle Kuzma,LAL,PF
+Avery Bradley,LAL,SG
+Rajon Rondo,LAL,PG
+Jared Dudley,LAL,SF
+Quinn Cook,LAL,PG
+Markieff Morris,LAL,PF
+Kostas Antetokounmpo,LAL,PF
+Talen Horton-Tucker,LAL,SG
+Devontae Cacok,LAL,F
+Dion Waiters,LAL,G
+J.R. Smith,LAL,G-F
+Dillon Brooks,MEM,SG
+Tyus Jones,MEM,PG
+Jonas Valančiūnas,MEM,C
+Ja Morant,MEM,PG
+Kyle Anderson,MEM,PF
+Jaren Jackson,MEM,C
+De'Anthony Melton,MEM,PG
+Brandon Clarke,MEM,PF
+Marko Guduric,MEM,SG
+Grayson Allen,MEM,SG
+Josh Jackson,MEM,SG
+Yuta Watanabe,MEM,SG
+John Konchar,MEM,SG
+Gorgui Dieng,MEM,C
+Anthony Tolliver,MEM,PF
+Justise Winslow,MEM,F
+Jontay Porter,MEM,F-C
+Bam Adebayo,MIA,PF
+Duncan Robinson,MIA,SF
+Kendrick Nunn,MIA,SG
+Kelly Olynyk,MIA,C
+Jimmy Butler,MIA,SF
+Goran Dragić,MIA,PG
+Derrick Jones,MIA,SF
+Meyers Leonard,MIA,C
+Tyler Herro,MIA,SG
+Chris Silva,MIA,PF
+Andre Iguodala,MIA,SG
+Jae Crowder,MIA,SF
+Solomon Hill,MIA,SF
+Gabe Vincent,MIA,PG
+KZ Okpala,MIA,SF
+Udonis Haslem,MIA,PF
+Kyle Alexander,MIA,F
+Wesley Matthews,MIL,SG
+Brook Lopez,MIL,C
+Pat Connaughton,MIL,SG
+Robin Lopez,MIL,C
+Donte DiVincenzo,MIL,SG
+Giannis Antetokounmpo,MIL,PF
+Eric Bledsoe,MIL,PG
+Ersan İlyasova,MIL,PF
+Khris Middleton,MIL,SF
+George Hill,MIL,PG
+Kyle Korver,MIL,SF
+Sterling Brown,MIL,SF
+D.J. Wilson,MIL,PF
+Thanasis Antetokounmpo,MIL,SF
+Marvin Williams,MIL,PF
+Frank Mason,MIL,PG
+Cameron Reynolds,MIL,G
+Jarrett Culver,MIN,SG
+Josh Okogie,MIN,SG
+Karl-Anthony Towns,MIN,C
+Kelan Martin,MIN,SF
+Naz Reid,MIN,C
+Jordan McLaughlin,MIN,PG
+Jake Layman,MIN,PF
+Jaylen Nowell,MIN,SG
+Malik Beasley,MIN,SG
+Juan Hernangómez,MIN,PF
+James Johnson,MIN,PF
+D'Angelo Russell,MIN,PG
+Jarred Vanderbilt,MIN,PF
+Jacob Evans,MIN,SG
+Evan Turner,MIN,G
+Omari Spellman,MIN,F
+Josh Hart,NOP,SF
+Brandon Ingram,NOP,PF
+Lonzo Ball,NOP,PG
+Jaxson Hayes,NOP,C
+Jrue Holiday,NOP,SG
+J.J. Redick,NOP,SG
+Nicolò Melli,NOP,C
+E'Twaun Moore,NOP,SG
+Frank Jackson,NOP,PG
+Derrick Favors,NOP,C
+Nickeil Alexander-Walker,NOP,SG
+Kenrich Williams,NOP,PF
+Jahlil Okafor,NOP,C
+Zion Williamson,NOP,PF
+Zylan Cheatham,NOP,SF
+Josh Gray,NOP,PG
+Darius Miller,NOP,F
+Sindarius Thornwell,NOP,G
+Bobby Portis,NYK,C
+Kevin Knox,NYK,SF
+Julius Randle,NYK,PF
+Taj Gibson,NYK,C
+Mitchell Robinson,NYK,C
+Frank Ntilikina,NYK,PG
+RJ Barrett,NYK,SG
+Damyean Dotson,NYK,SG
+Elfrid Payton,NYK,PG
+Wayne Ellington,NYK,SG
+Dennis Smith,NYK,PG
+Reggie Bullock,NYK,SG
+Maurice Harkless,NYK,SF
+Ignas Brazdeikis,NYK,SF
+Theo Pinson,NYK,G
+Kenny Wooten,NYK,F
+Jared Harper,NYK,G
+Shai Gilgeous-Alexander,OKC,SG
+Dennis Schröder,OKC,PG
+Chris Paul,OKC,PG
+Steven Adams,OKC,C
+Danilo Gallinari,OKC,PF
+Nerlens Noel,OKC,C
+Darius Bazley,OKC,PF
+Terrance Ferguson,OKC,SF
+Abdel Nader,OKC,SF
+Mike Muscala,OKC,C
+Hamidou Diallo,OKC,SF
+Deonte Burton,OKC,SG
+Luguentz Dort,OKC,SG
+Kevin Hervey,OKC,PF
+Devon Hall,OKC,SG
+Isaiah Roby,OKC,SF
+Andre Roberson,OKC,G-F
+Markelle Fultz,ORL,PG
+Terrence Ross,ORL,SG
+Evan Fournier,ORL,SG
+Mohamed Bamba,ORL,C
+Aaron Gordon,ORL,PF
+Nikola Vučević,ORL,C
+D.J. Augustin,ORL,PG
+Wesley Iwundu,ORL,SF
+Michael Carter-Williams,ORL,SG
+Khem Birch,ORL,C
+Jonathan Isaac,ORL,SF
+Al-Farouq Aminu,ORL,PF
+Gary Clark,ORL,PF
+Melvin Frazier,ORL,SG
+James Ennis,ORL,SF
+B.J. Johnson,ORL,SF
+Vic Law,ORL,SF
+Tobias Harris,PHI,PF
+Furkan Korkmaz,PHI,SG
+Mike Scott,PHI,PF
+Al Horford,PHI,C
+Matisse Thybulle,PHI,SG
+Ben Simmons,PHI,PG
+Raul Neto,PHI,PG
+Josh Richardson,PHI,SG
+Joel Embiid,PHI,C
+Shake Milton,PHI,SG
+Kyle O'Quinn,PHI,C
+Norvel Pelle,PHI,C
+Glenn Robinson,PHI,SF
+Alec Burks,PHI,SG
+Zhaire Smith,PHI,SG
+Marial Shayok,PHI,SG
+Ryan Broekhoff,PHI,F
+Mikal Bridges,PHO,SF
+Devin Booker,PHO,SG
+Dario Šarić,PHO,PF
+Ricky Rubio,PHO,PG
+Kelly Oubre,PHO,SF
+Elie Okobo,PHO,PG
+Jevon Carter,PHO,PG
+Cameron Johnson,PHO,PF
+Cheick Diallo,PHO,C
+Aron Baynes,PHO,C
+Frank Kaminsky,PHO,C
+Deandre Ayton,PHO,C
+Ty Jerome,PHO,PG
+Jalen Lecque,PHO,PG
+Tariq Owens,PHO,PF
+Cameron Payne,PHO,G
+Anfernee Simons,POR,SG
+CJ McCollum,POR,SG
+Hassan Whiteside,POR,C
+Damian Lillard,POR,PG
+Gary Trent,POR,SG
+Carmelo Anthony,POR,PF
+Nassir Little,POR,PF
+Mario Hezonja,POR,PF
+Trevor Ariza,POR,SF
+Rodney Hood,POR,SF
+Caleb Swanigan,POR,PF
+Wenyen Gabriel,POR,PF
+Jaylen Hoard,POR,SF
+Moses Brown,POR,C
+Zach Collins,POR,PF
+Jusuf Nurkić,POR,C
+Jaylen Adams,POR,G
+Buddy Hield,SAC,SG
+Harrison Barnes,SAC,PF
+Nemanja Bjelica,SAC,PF
+Cory Joseph,SAC,PG
+Bogdan Bogdanović,SAC,SG
+De'Aaron Fox,SAC,PG
+Yogi Ferrell,SAC,PG
+Richaun Holmes,SAC,C
+Harry Giles,SAC,PF
+Justin James,SAC,SG
+Kent Bazemore,SAC,SG
+Marvin Bagley,SAC,PF
+Alex Len,SAC,C
+DaQuan Jeffries,SAC,SG
+Kyle Guy,SAC,SG
+Jabari Parker,SAC,PF
+Corey Brewer,SAC,F-G
+Patty Mills,SAS,PG
+Bryn Forbes,SAS,SG
+Trey Lyles,SAS,PF
+DeMar DeRozan,SAS,SF
+Derrick White,SAS,SG
+Rudy Gay,SAS,PF
+Dejounte Murray,SAS,PG
+Jakob Poeltl,SAS,C
+LaMarcus Aldridge,SAS,C
+Lonnie Walker,SAS,SG
+Marco Belinelli,SAS,SG
+Chimezie Metu,SAS,PF
+Drew Eubanks,SAS,PF
+Keldon Johnson,SAS,SF
+Quinndary Weatherspoon,SAS,SG
+Luka Šamanić,SAS,PF
+Tyler Zeller,SAS,F-C
+Terence Davis,TOR,SG
+OG Anunoby,TOR,SF
+Chris Boucher,TOR,PF
+Pascal Siakam,TOR,PF
+Kyle Lowry,TOR,PG
+Rondae Hollis-Jefferson,TOR,SF
+Serge Ibaka,TOR,C
+Fred VanVleet,TOR,PG
+Norman Powell,TOR,SG
+Patrick McCaw,TOR,SF
+Marc Gasol,TOR,C
+Matt Thomas,TOR,SG
+Malcolm Miller,TOR,SF
+Stanley Johnson,TOR,PF
+Oshae Brissett,TOR,SF
+Dewan Hernandez,TOR,C
+Paul Watson,TOR,SF
+Joe Ingles,UTA,SF
+Royce O'Neale,UTA,PF
+Donovan Mitchell,UTA,SG
+Bojan Bogdanović,UTA,SF
+Rudy Gobert,UTA,C
+Georges Niang,UTA,PF
+Tony Bradley,UTA,C
+Emmanuel Mudiay,UTA,PG
+Mike Conley,UTA,PG
+Jordan Clarkson,UTA,SG
+Ed Davis,UTA,C
+Juwan Morgan,UTA,PF
+Rayjon Tucker,UTA,SG
+Nigel Williams-Goss,UTA,PG
+Miye Oni,UTA,SG
+Jarrell Brantley,UTA,PF
+Justin Wright-Foreman,UTA,PG
+Troy Brown,WAS,SG
+Ish Smith,WAS,PG
+Isaac Bonga,WAS,SF
+Bradley Beal,WAS,SG
+Dāvis Bertāns,WAS,PF
+Rui Hachimura,WAS,PF
+Thomas Bryant,WAS,C
+Ian Mahinmi,WAS,C
+Moritz Wagner,WAS,C
+Gary Payton,WAS,PG
+Admiral Schofield,WAS,SF
+Anžejs Pasečņiks,WAS,C
+Garrison Mathews,WAS,SG
+Shabazz Napier,WAS,PG
+Jerome Robinson,WAS,SG
+Johnathan Williams,WAS,C
+John Wall,WAS,G
+Jerian Grant,WAS,G
