@@ -1,10 +1,10 @@
 ,Name,Position,Game,Team,Projected Fanduel Points,Projected Fanduel Value,Fanduel Salary,Value above Fanduel Value,FPPG (Fanduel),Injury Indicator,Injury Details,Hot,Cold
-6,Hassan Whiteside,C,MEM@POR,POR,53.98,$10796,$8700,$2096,43.65,,,0.0,0.0
-25,Robert Covington,PF,HOU@DAL,HOU,42.04,$8409,$5800,$2609,29.25,,,0.0,0.0
-81,Richaun Holmes,PF,SAC@SA,SAC,31.05,$6210,$3900,$2310,29.54,GTD,Not injury related,0.0,0.0
-5,Damian Lillard,PG,MEM@POR,POR,47.09,$9417,$8900,$517,47.04,,,0.0,1.833198062344712
-89,George Hill,PG,BOS@MIL,MIL,20.29,$4058,$3800,$258,19.2,,,0.1646889993261037,0.0
-1,Giannis Antetokounmpo,SF,BOS@MIL,MIL,63.22,$12644,$10700,$1944,57.25,,,0.0,0.0
-153,Kelly Oubre,SF,PHO@WAS,PHO,26.24,$5248,$3500,$1748,33.16,GTD,Knee,0.0,0.0
 15,CJ McCollum,SG,MEM@POR,POR,40.73,$8145,$7400,$745,36.14,,,2.24301366186491,0.0
 16,Khris Middleton,SG,BOS@MIL,MIL,42.46,$8493,$7100,$1393,35.28,,,0.0,0.0
+1,Giannis Antetokounmpo,SF,BOS@MIL,MIL,63.22,$12644,$10700,$1944,57.25,,,0.0,0.0
+154,Kelly Oubre,SF,PHO@WAS,PHO,26.24,$5248,$3500,$1748,33.16,GTD,Knee,0.0,0.0
+21,Eric Bledsoe,PG,BOS@MIL,MIL,37.65,$7530,$6400,$1130,30.76,GTD,Illness,0.0,0.0
+22,Ja Morant,PG,MEM@POR,MEM,33.28,$6655,$6300,$355,32.4,,,0.0,0.0
+26,Robert Covington,PF,HOU@DAL,HOU,42.04,$8409,$5800,$2609,29.25,,,0.0,0.0
+82,Richaun Holmes,PF,SAC@SA,SAC,31.05,$6210,$3900,$2310,29.54,GTD,Not injury related,0.0,0.0
+6,Hassan Whiteside,C,MEM@POR,POR,53.98,$10796,$8700,$2096,43.65,,,0.0,0.0
