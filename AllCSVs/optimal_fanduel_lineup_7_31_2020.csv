@@ -1,10 +1,10 @@
 ,Name,Position,Game,Team,Projected Fanduel Points,Projected Fanduel Value,Fanduel Salary,Value above Fanduel Value,FPPG (Fanduel),Injury Indicator,Injury Details,Hot,Cold
-15,CJ McCollum,SG,MEM@POR,POR,40.73,$8145,$7400,$745,36.14,,,2.24301366186491,0.0
-16,Khris Middleton,SG,BOS@MIL,MIL,42.46,$8493,$7100,$1393,35.28,,,0.0,0.0
-1,Giannis Antetokounmpo,SF,BOS@MIL,MIL,63.22,$12644,$10700,$1944,57.25,,,0.0,0.0
-154,Kelly Oubre,SF,PHO@WAS,PHO,26.24,$5248,$3500,$1748,33.16,GTD,Knee,0.0,0.0
-21,Eric Bledsoe,PG,BOS@MIL,MIL,37.65,$7530,$6400,$1130,30.76,GTD,Illness,0.0,0.0
-22,Ja Morant,PG,MEM@POR,MEM,33.28,$6655,$6300,$355,32.4,,,0.0,0.0
-26,Robert Covington,PF,HOU@DAL,HOU,42.04,$8409,$5800,$2609,29.25,,,0.0,0.0
-82,Richaun Holmes,PF,SAC@SA,SAC,31.05,$6210,$3900,$2310,29.54,GTD,Not injury related,0.0,0.0
-6,Hassan Whiteside,C,MEM@POR,POR,53.98,$10796,$8700,$2096,43.65,,,0.0,0.0
+16,Khris Middleton,SG,BOS@MIL,MIL,33.98,$6795,$7100,-$305,35.28, , ,0.0,0.0
+34,Marcus Smart,SG,BOS@MIL,BOS,32.32,$6464,$5400,$1064,30.08, , ,0.0,0.0
+1,Giannis Antetokounmpo,SF,BOS@MIL,MIL,49.31,$9861,$10700,-$839,57.25, , ,0.0,0.0
+160,Kelly Oubre,SF,PHO@WAS,PHO,21.22,$4243,$3500,$743,33.16,GTD,Knee,0.0,0.0
+3,Russell Westbrook,PG,HOU@DAL,HOU,51.03,$10205,$9800,$405,48.41,GTD,Illness,0.0,0.0
+20,Ricky Rubio,PG,PHO@WAS,PHO,33.72,$6744,$6500,$244,34.36, , ,0.0,0.0
+49,Marvin Bagley,PF,SAC@SA,SAC,25.63,$5125,$4800,$325,27.11, , ,0.0,0.0
+56,Nemanja Bjelica,PF,SAC@SA,SAC,24.13,$4826,$4500,$326,26.01, , ,0.0,0.0
+13,Deandre Ayton,C,PHO@WAS,PHO,44.45,$8891,$7600,$1291,41.18,GTD,Ankle,0.0,0.0
