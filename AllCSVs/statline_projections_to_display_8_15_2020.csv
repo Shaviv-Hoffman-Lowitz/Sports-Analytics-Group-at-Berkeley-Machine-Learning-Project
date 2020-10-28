@@ -1,0 +1,31 @@
+,Name,Position,Game,Team,Minutes,2PT FG,3PT FG,FTM,Rebounds,Assists,Blocks,Steals,Turnovers,Opponent Defensive Rank vs Position,Injury Indicator,Injury Details
+0,Damian Lillard,PG,MEM@POR,POR,39.06,3.18,5.11,3.72,3.39,6.83,0.14,1.28,5.3,22.0, , 
+1,Jusuf Nurkic,C,MEM@POR,POR,33.12,6.83,1.47,4.61,8.73,4.14,5.88,1.7,3.79,19.0, , 
+2,Ja Morant,PG,MEM@POR,MEM,28.71,5.44,2.19,3.76,3.07,6.54,0.27,1.41,4.42,13.0, , 
+3,CJ McCollum,SG,MEM@POR,POR,38.36,5.85,1.52,3.34,3.93,2.7,0.0,0.51,2.3,22.0, , 
+4,Jonas Valanciunas,C,MEM@POR,MEM,24.18,5.46,1.12,1.17,8.29,1.62,0.11,0.83,3.19,22.0, , 
+5,Brandon Clarke,PF,MEM@POR,MEM,22.07,5.51,0.0,1.2,6.1,0.66,1.69,1.22,1.32,29.0, , 
+6,Dillon Brooks,SG,MEM@POR,MEM,23.73,3.11,0.63,1.49,1.02,0.16,0.3,0.31,1.48,18.0, , 
+7,Carmelo Anthony,SF,MEM@POR,POR,23.65,3.9,1.84,2.27,6.34,1.58,0.49,0.88,2.88,24.0, , 
+8,Hassan Whiteside,C,MEM@POR,POR,28.25,7.31,0.0,2.08,10.67,0.0,2.57,0.28,1.81,19.0, , 
+9,Gary Trent,SG,MEM@POR,POR,4.41,0.58,0.44,0.28,0.91,0.15,0.0,0.14,0.33,22.0, , 
+10,Kyle Anderson,SF,MEM@POR,MEM,19.53,2.09,0.42,0.88,3.0,1.93,1.06,0.65,0.9,29.0, , 
+11,De'Anthony Melton,PG,MEM@POR,MEM,5.29,0.47,0.18,0.27,0.74,0.74,0.0,0.22,0.2,13.0, , 
+12,Grayson Allen,SG,MEM@POR,MEM,28.56,2.25,0.03,0.31,2.44,0.52,0.0,0.58,0.6,18.0, , 
+13,Zach Collins,PF,MEM@POR,POR,36.8,4.12,0.84,1.22,7.15,1.92,0.02,0.9,0.06,24.0, , 
+14,Gorgui Dieng,C,MEM@POR,MEM,12.58,1.72,0.21,0.56,2.83,1.15,0.57,0.52,0.68,22.0, , 
+15,Mario Hezonja,SF,MEM@POR,POR,36.59,2.18,1.67,1.21,6.01,1.52,0.03,0.9,1.5,24.0, , 
+16,Anthony Tolliver,PF,MEM@POR,MEM,27.21,0.76,0.64,0.0,2.64,0.39,0.45,0.62,0.55,24.0, , 
+17,Nassir Little,SF,MEM@POR,POR,27.22,2.09,1.15,0.96,5.08,0.18,0.0,1.09,0.93,24.0,O,Illness
+18,Caleb Swanigan,PF,MEM@POR,POR,30.92,2.31,1.7,0.96,6.58,2.41,0.0,0.96,1.64,24.0,O,Personal
+19,Jaren Jackson,PF,MEM@POR,MEM,22.29,1.6,2.08,1.31,1.72,1.04,2.34,0.57,2.44,22.0,O,Knee
+20,John Konchar,SG,MEM@POR,MEM,30.88,3.1,0.0,0.17,4.42,1.72,0.0,0.85,0.0,18.0, , 
+21,Wenyen Gabriel,PF,MEM@POR,POR,26.03,1.92,1.7,0.47,6.31,0.96,0.0,1.11,1.32,24.0, , 
+22,Marko Guduric,SG,MEM@POR,MEM,30.16,1.58,0.39,0.0,2.6,1.06,0.06,1.05,0.21,18.0, , 
+23,Jaylen Hoard,SF,MEM@POR,POR,28.1,3.23,1.51,0.98,6.79,0.99,0.0,1.31,1.55,18.0, , 
+24,Rodney Hood,SF,MEM@POR,POR,31.43,3.08,1.63,2.06,4.07,2.33,0.33,1.13,0.5,18.0,O,Achilles
+25,Tyus Jones,PG,MEM@POR,MEM,22.14,2.31,0.84,1.83,1.27,2.86,0.09,1.18,1.07,13.0,GTD,Knee
+26,Moses Brown,C,MEM@POR,POR,27.39,2.14,1.62,0.57,5.77,0.81,0.0,1.13,1.5,19.0, , 
+27,Josh Jackson,SF,MEM@POR,MEM,5.04,0.62,0.27,0.41,0.46,0.4,0.23,0.22,0.42,18.0, , 
+28,Anfernee Simons,PG,MEM@POR,POR,20.15,2.45,1.52,1.13,4.74,0.7,0.12,1.03,1.44,22.0, , 
+29,Yuta Watanabe,SG,MEM@POR,MEM,30.18,1.93,0.0,0.0,3.3,0.36,0.0,1.03,0.31,18.0, , 
