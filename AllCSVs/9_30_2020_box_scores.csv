@@ -1,0 +1,24 @@
+slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
+davisan02,Anthony Davis,LOS ANGELES LAKERS,HOME,MIAMI HEAT,WIN,2284,11,21,2,4,10,10,3,6,5,0,3,1,1,31.8
+jamesle01,LeBron James,LOS ANGELES LAKERS,HOME,MIAMI HEAT,WIN,2184,9,17,2,4,5,6,1,12,9,1,0,2,3,24.7
+butleji01,Jimmy Butler,MIAMI HEAT,AWAY,LOS ANGELES LAKERS,LOSS,2005,8,13,2,4,5,5,0,2,5,2,0,2,0,21.2
+nunnke01,Kendrick Nunn,MIAMI HEAT,AWAY,LOS ANGELES LAKERS,LOSS,1189,8,11,2,4,0,0,1,4,2,0,0,0,0,16.8
+greenda02,Danny Green,LOS ANGELES LAKERS,HOME,MIAMI HEAT,WIN,1772,4,9,3,8,0,0,0,4,1,2,3,2,1,9.9
+caldwke01,Kentavious Caldwell-Pope,LOS ANGELES LAKERS,HOME,MIAMI HEAT,WIN,1826,3,10,2,6,5,5,0,2,0,2,1,1,1,9.1
+carusal01,Alex Caruso,LOS ANGELES LAKERS,HOME,MIAMI HEAT,WIN,1318,4,6,1,3,1,2,1,3,2,1,0,1,3,8.8
+crowdja01,Jae Crowder,MIAMI HEAT,AWAY,LOS ANGELES LAKERS,LOSS,1470,4,8,4,7,0,0,0,2,0,0,2,0,3,8.8
+iguodan01,Andre Iguodala,MIAMI HEAT,AWAY,LOS ANGELES LAKERS,LOSS,1523,3,7,1,2,0,0,2,3,6,0,1,1,3,8.3
+rondora01,Rajon Rondo,LOS ANGELES LAKERS,HOME,MIAMI HEAT,WIN,1491,2,7,1,5,2,2,1,2,4,0,0,1,1,5.6
+dragigo01,Goran Dragić,MIAMI HEAT,AWAY,LOS ANGELES LAKERS,LOSS,890,3,8,0,1,0,0,0,1,3,2,0,1,0,5.0
+olynyke01,Kelly Olynyk,MIAMI HEAT,AWAY,LOS ANGELES LAKERS,LOSS,1084,1,5,0,2,2,2,0,5,4,0,2,1,2,4.8
+herroty01,Tyler Herro,MIAMI HEAT,AWAY,LOS ANGELES LAKERS,LOSS,1815,6,18,2,8,0,1,0,4,3,0,0,2,1,4.3
+howardw01,Dwight Howard,LOS ANGELES LAKERS,HOME,MIAMI HEAT,WIN,895,0,0,0,0,2,2,1,7,2,0,0,1,3,4.0
+adebaba01,Bam Adebayo,MIAMI HEAT,AWAY,LOS ANGELES LAKERS,LOSS,1270,2,8,0,0,4,6,2,2,0,0,0,0,2,3.6
+morrima02,Markieff Morris,LOS ANGELES LAKERS,HOME,MIAMI HEAT,WIN,1057,3,6,2,3,0,0,0,3,1,0,0,2,3,3.4
+cookqu01,Quinn Cook,LOS ANGELES LAKERS,HOME,MIAMI HEAT,WIN,83,1,1,1,1,0,0,0,0,0,0,0,0,0,2.7
+kuzmaky01,Kyle Kuzma,LOS ANGELES LAKERS,HOME,MIAMI HEAT,WIN,1324,1,7,1,4,0,0,2,6,2,1,0,1,2,2.3
+dudleja01,Jared Dudley,LOS ANGELES LAKERS,HOME,MIAMI HEAT,WIN,83,0,0,0,0,0,0,0,0,0,0,1,0,0,0.7
+hillso01,Solomon Hill,MIAMI HEAT,AWAY,LOS ANGELES LAKERS,LOSS,1082,2,6,0,4,0,0,0,3,0,0,0,0,2,0.7
+jonesde02,Derrick Jones,MIAMI HEAT,AWAY,LOS ANGELES LAKERS,LOSS,449,1,2,0,0,0,0,0,1,0,0,0,1,0,0.3
+smithjr01,J.R. Smith,LOS ANGELES LAKERS,HOME,MIAMI HEAT,WIN,83,0,0,0,0,0,0,0,0,0,0,0,0,1,-0.4
+robindu01,Duncan Robinson,MIAMI HEAT,AWAY,LOS ANGELES LAKERS,LOSS,1623,0,3,0,3,0,0,0,4,0,0,0,0,2,-1.7
