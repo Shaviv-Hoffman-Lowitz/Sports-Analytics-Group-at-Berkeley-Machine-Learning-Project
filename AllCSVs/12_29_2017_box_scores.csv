@@ -1,7 +1,7 @@
 slug,name,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
 howardw01,Dwight Howard,CHARLOTTE HORNETS,AWAY,GOLDEN STATE WARRIORS,WIN,2416,10,15,0,0,9,12,6,7,7,2,0,4,1,30.1
 couside01,DeMarcus Cousins,NEW ORLEANS PELICANS,HOME,DALLAS MAVERICKS,LOSS,2627,11,24,3,10,7,8,3,17,8,2,5,6,4,29.9
-princta02,Taurean Waller-Prince,ATLANTA HAWKS,AWAY,TORONTO RAPTORS,LOSS,2079,12,16,5,6,1,2,1,9,1,0,2,0,1,28.3
+princta02,Taurean Prince,ATLANTA HAWKS,AWAY,TORONTO RAPTORS,LOSS,2079,12,16,5,6,1,2,1,9,1,0,2,0,1,28.3
 westbru01,Russell Westbrook,OKLAHOMA CITY THUNDER,HOME,MILWAUKEE BUCKS,LOSS,2402,16,34,2,9,6,9,3,11,9,1,0,5,4,27.5
 porteot01,Otto Porter,WASHINGTON WIZARDS,HOME,HOUSTON ROCKETS,WIN,2388,9,16,7,11,1,1,1,5,7,2,1,1,1,26.8
 markkla01,Lauri Markkanen,CHICAGO BULLS,HOME,INDIANA PACERS,WIN,1702,11,17,5,9,5,5,1,6,1,0,0,1,1,26.3
