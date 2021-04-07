@@ -53,7 +53,7 @@ d = pd.merge(c, df_c, on='Team')
 
 
 df = d.reindex(columns=columns)
-df.to_csv('./../OutputCSVs/team_def_vs_position.csv', header=True, index=False)
+df.to_csv('OutputCSVs/team_def_vs_position.csv', header=True, index=False)
 
 
 # In[5]:
